@@ -21,7 +21,7 @@ export default function Player() {
     return (
       <div className="ember-bg min-h-screen grid place-items-center text-center px-6">
         <div>
-          <p className="text-ember-100/70 mb-4">That player isn't in this season's Wrapped.</p>
+          <p className="text-ember-100/70 mb-4">That player isn't in this season's recap.</p>
           <Link to="/" className="text-ember-300 font-semibold underline">Back to all players</Link>
         </div>
       </div>
@@ -78,7 +78,7 @@ export default function Player() {
           </motion.h1>
           <motion.p variants={rise} initial="hidden" animate="show" custom={3}
             className="mt-4 text-ember-100/70 text-lg">
-            Here's your season, wrapped.
+            Here's your season in review.
           </motion.p>
           <motion.div variants={rise} initial="hidden" animate="show" custom={4}
             className="mt-10 text-ember-100/40 text-sm flex flex-col items-center gap-1">
@@ -306,7 +306,7 @@ export default function Player() {
       <Section tint="from-ember-700/12">
         <Reveal>
           <img src={headUrl(p.uuid, 96)} alt="" className="w-16 h-16 rounded-xl pixelated mx-auto ring-1 ring-ember-500/30" />
-          <H className="mt-5">That's a wrap, {p.name}.</H>
+          <H className="mt-5">That's your season, {p.name}.</H>
           <Lead>{data.server} {data.season} · {p.playDays} days well spent.</Lead>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mt-8 max-w-2xl mx-auto">
             <Mini label="Hours" value={hoursToHuman(p.playHours)} raw />
@@ -316,7 +316,7 @@ export default function Player() {
           </div>
           <div className="mt-10 flex flex-wrap items-center justify-center gap-3">
             <button onClick={share} className="px-5 py-3 rounded-full bg-ember-500 text-ink font-bold inline-flex items-center gap-2 shadow-lg shadow-ember-600/40 hover:bg-ember-400 transition">
-              <Icon name="share" className="w-4 h-4" /> {copied ? 'Link copied!' : 'Share this Wrapped'}
+              <Icon name="share" className="w-4 h-4" /> {copied ? 'Link copied!' : 'Share this recap'}
             </button>
             <Link to="/" className="px-5 py-3 rounded-full card font-semibold text-ember-100 hover:text-ember-50 inline-flex items-center gap-2">
               <Icon name="grid" className="w-4 h-4" /> All players

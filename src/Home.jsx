@@ -58,7 +58,7 @@ export default function Home() {
             transition={{ delay: 0.28, duration: 0.6 }}
             className="mt-2 text-lg sm:text-2xl font-semibold uppercase tracking-[0.35em] text-ember-200"
           >
-            {season} · Wrapped
+            {season} · In Review
           </motion.p>
           <motion.p
             initial={{ opacity: 0 }}
@@ -172,7 +172,7 @@ export default function Home() {
 
       {/* ---------- PLAYERS ---------- */}
       <section className="max-w-6xl mx-auto px-5 py-10">
-        <SectionTitle icon="compass" kicker={`${players.length} Players`} title="Open Your Wrapped" />
+        <SectionTitle icon="compass" kicker={`${players.length} Players`} title="Open Your Recap" />
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 mt-6">
           {players.map((p, i) => (
             <Reveal key={p.uuid} delay={(i % 4) * 0.05} y={24}>
