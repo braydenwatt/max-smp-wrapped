@@ -383,6 +383,32 @@ def download_textures(ids):
             missing.append(name)
     print(f"  textures: {got} downloaded, {len(missing)} missing" +
           (f" ({', '.join(missing[:8])}{'…' if len(missing) > 8 else ''})" if missing else ""))
+    flatten_animated_textures()
+
+def flatten_animated_textures():
+    """Animated block textures (magma, prismarine, fire, ...) are stored as a
+    vertical strip of frames (w x N*w). Crop each to its top square frame so it
+    renders as a single still frame. Idempotent — square textures are left alone."""
+    try:
+        from PIL import Image
+    except ImportError:
+        print("  (Pillow not installed — skipping animated-texture flattening)")
+        return
+    flattened = 0
+    for f in os.listdir(TEX_DIR):
+        if not f.endswith(".png"):
+            continue
+        p = os.path.join(TEX_DIR, f)
+        try:
+            im = Image.open(p)
+            w, h = im.size
+            if h > w:  # vertical animation strip -> keep only the top frame
+                im.crop((0, 0, w, w)).save(p)
+                flattened += 1
+        except Exception:
+            continue
+    if flattened:
+        print(f"  flattened {flattened} animated textures to a single frame")
 
 def build_leaderboards(players):
     def board(key, fn, unit):
