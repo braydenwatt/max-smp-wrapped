@@ -1,0 +1,7183 @@
+{
+  "season": "Season 3",
+  "server": "Max SMP",
+  "players": [
+    {
+      "uuid": "f82f614c-5666-402b-aa84-9f8e240c527a",
+      "name": "jiaozi_tou",
+      "playHours": 367.3,
+      "playDays": 15.3,
+      "playTicks": 26442479,
+      "advancements": 83,
+      "movement": {
+        "totalKm": 2904.6,
+        "comparison": "1.2x the length of the Mississippi River",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 158732352,
+          "km": 1587.32
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 158732352,
+            "km": 1587.32
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 49218247,
+            "km": 492.18
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 47780714,
+            "km": 477.81
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 19667517,
+            "km": 196.68
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 10336883,
+            "km": 103.37
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 3857023,
+            "km": 38.57
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 3617187,
+            "km": 36.17
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 2215262,
+            "km": 22.15
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 1791386,
+            "km": 17.91
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 1305778,
+            "km": 13.06
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 1231516,
+            "km": 12.32
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 730238,
+            "km": 7.3
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 305502,
+            "km": 3.06
+          },
+          {
+            "label": "Rode a horse",
+            "icon": "horse",
+            "cm": 11330,
+            "km": 0.11
+          }
+        ]
+      },
+      "deaths": {
+        "total": 155,
+        "causes": {
+          "Zombie Villager": 38,
+          "Zombie": 30,
+          "Vindicator": 29,
+          "Skeleton": 7,
+          "Player": 5,
+          "Vex": 5,
+          "Piglin": 4,
+          "Creeper": 3,
+          "Warden": 3,
+          "Evoker": 2,
+          "Piglin Brute": 2,
+          "Magma Cube": 1,
+          "Spider": 1,
+          "Iron Golem": 1,
+          "Blaze": 1
+        },
+        "nemesis": {
+          "id": "minecraft:zombie_villager",
+          "name": "Zombie Villager",
+          "count": 38
+        },
+        "survivalStreakTicks": 4489994
+      },
+      "grind": {
+        "diamonds": 371,
+        "totalMined": 177140,
+        "topMined": {
+          "id": "minecraft:netherrack",
+          "name": "Netherrack",
+          "count": 66682
+        },
+        "totalPlaced": 108464,
+        "signature": {
+          "id": "minecraft:smooth_sandstone",
+          "name": "Smooth Sandstone",
+          "count": 12314
+        },
+        "toolsBroken": 56,
+        "picksBroken": 19,
+        "deepslateMined": 3299,
+        "topMinedList": [
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 66682
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 22379
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 7468
+          },
+          {
+            "id": "minecraft:sand",
+            "name": "Sand",
+            "count": 5738
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 5256
+          },
+          {
+            "id": "minecraft:pale_oak_log",
+            "name": "Pale Oak Log",
+            "count": 3952
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:smooth_sandstone",
+            "name": "Smooth Sandstone",
+            "count": 12314
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 10418
+          },
+          {
+            "id": "minecraft:magma_block",
+            "name": "Magma Block",
+            "count": 8510
+          },
+          {
+            "id": "minecraft:black_stained_glass",
+            "name": "Black Stained Glass",
+            "count": 4669
+          },
+          {
+            "id": "minecraft:smooth_stone_slab",
+            "name": "Smooth Stone Slab",
+            "count": 4445
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 4214
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 3907
+          },
+          {
+            "id": "minecraft:sand",
+            "name": "Sand",
+            "count": 3624
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 94288,
+        "playerKills": 32,
+        "damageDealt": 917008,
+        "damageTaken": 326047,
+        "damageBlocked": 31165,
+        "topKills": [
+          {
+            "id": "minecraft:zombified_piglin",
+            "name": "Zombified Piglin",
+            "count": 86586
+          },
+          {
+            "id": "minecraft:pillager",
+            "name": "Pillager",
+            "count": 924
+          },
+          {
+            "id": "minecraft:vindicator",
+            "name": "Vindicator",
+            "count": 599
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 587
+          },
+          {
+            "id": "minecraft:guardian",
+            "name": "Guardian",
+            "count": 560
+          },
+          {
+            "id": "minecraft:slime",
+            "name": "Slime",
+            "count": 426
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 4447,
+        "favFood": {
+          "id": "minecraft:golden_carrot",
+          "name": "Golden Carrot",
+          "count": 3412
+        },
+        "slept": 583,
+        "tnt": 363,
+        "waterPlaced": 1745,
+        "bred": 15,
+        "enchants": 4,
+        "traded": 26501,
+        "talked": 5975,
+        "jumps": 253436,
+        "chestsOpened": 33227,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+      "name": "hamesYT",
+      "playHours": 301.8,
+      "playDays": 12.6,
+      "playTicks": 21727758,
+      "advancements": 71,
+      "movement": {
+        "totalKm": 1559.4,
+        "comparison": "1.3x the length of Italy",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 45919729,
+          "km": 459.2
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 45919729,
+            "km": 459.2
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 32501479,
+            "km": 325.01
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 31886228,
+            "km": 318.86
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 27074419,
+            "km": 270.74
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 7120698,
+            "km": 71.21
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 7005806,
+            "km": 70.06
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 3933875,
+            "km": 39.34
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 2951504,
+            "km": 29.52
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 1987070,
+            "km": 19.87
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 1854606,
+            "km": 18.55
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 610839,
+            "km": 6.11
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 67529,
+            "km": 0.68
+          },
+          {
+            "label": "Rode a horse",
+            "icon": "horse",
+            "cm": 23455,
+            "km": 0.23
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 4179,
+            "km": 0.04
+          }
+        ]
+      },
+      "deaths": {
+        "total": 4,
+        "causes": {
+          "Piglin Brute": 1
+        },
+        "nemesis": {
+          "id": "minecraft:piglin_brute",
+          "name": "Piglin Brute",
+          "count": 1
+        },
+        "survivalStreakTicks": 5375640
+      },
+      "grind": {
+        "diamonds": 415,
+        "totalMined": 169247,
+        "topMined": {
+          "id": "minecraft:netherrack",
+          "name": "Netherrack",
+          "count": 33874
+        },
+        "totalPlaced": 132431,
+        "signature": {
+          "id": "minecraft:netherrack",
+          "name": "Netherrack",
+          "count": 17584
+        },
+        "toolsBroken": 32,
+        "picksBroken": 4,
+        "deepslateMined": 5471,
+        "topMinedList": [
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 33874
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 31308
+          },
+          {
+            "id": "minecraft:sugar_cane",
+            "name": "Sugar Cane",
+            "count": 9544
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 9202
+          },
+          {
+            "id": "minecraft:carrots",
+            "name": "Carrots",
+            "count": 7090
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 6414
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 17584
+          },
+          {
+            "id": "minecraft:stone_slab",
+            "name": "Stone Slab",
+            "count": 9651
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 6809
+          },
+          {
+            "id": "minecraft:stone_bricks",
+            "name": "Stone Bricks",
+            "count": 6521
+          },
+          {
+            "id": "minecraft:stone_brick_slab",
+            "name": "Stone Brick Slab",
+            "count": 5727
+          },
+          {
+            "id": "minecraft:oak_sapling",
+            "name": "Oak Sapling",
+            "count": 5183
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 4978
+          },
+          {
+            "id": "minecraft:glass",
+            "name": "Glass",
+            "count": 4964
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 309311,
+        "playerKills": 13,
+        "damageDealt": 440516,
+        "damageTaken": 198168,
+        "damageBlocked": 14067,
+        "topKills": [
+          {
+            "id": "minecraft:zombified_piglin",
+            "name": "Zombified Piglin",
+            "count": 135512
+          },
+          {
+            "id": "minecraft:pillager",
+            "name": "Pillager",
+            "count": 75843
+          },
+          {
+            "id": "minecraft:vindicator",
+            "name": "Vindicator",
+            "count": 62321
+          },
+          {
+            "id": "minecraft:evoker",
+            "name": "Evoker",
+            "count": 16654
+          },
+          {
+            "id": "minecraft:witch",
+            "name": "Witch",
+            "count": 16045
+          },
+          {
+            "id": "minecraft:cow",
+            "name": "Cow",
+            "count": 583
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 10020,
+        "favFood": {
+          "id": "minecraft:carrot",
+          "name": "Carrot",
+          "count": 7638
+        },
+        "slept": 318,
+        "tnt": 25,
+        "waterPlaced": 1942,
+        "bred": 658,
+        "enchants": 43,
+        "traded": 114180,
+        "talked": 17598,
+        "jumps": 203879,
+        "chestsOpened": 35280,
+        "fishCaught": 2
+      }
+    },
+    {
+      "uuid": "6717ab31-bd71-43d7-9879-3131abcfda73",
+      "name": "_mungy",
+      "playHours": 261.1,
+      "playDays": 10.9,
+      "playTicks": 18795931,
+      "advancements": 88,
+      "movement": {
+        "totalKm": 2293.6,
+        "comparison": "the length of the Mississippi River",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 101478364,
+          "km": 1014.78
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 101478364,
+            "km": 1014.78
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 59226212,
+            "km": 592.26
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 33390477,
+            "km": 333.9
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 15842052,
+            "km": 158.42
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 14306636,
+            "km": 143.07
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 4039284,
+            "km": 40.39
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 3905021,
+            "km": 39.05
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 3592939,
+            "km": 35.93
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 2645319,
+            "km": 26.45
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 2226786,
+            "km": 22.27
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 2187432,
+            "km": 21.87
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 587079,
+            "km": 5.87
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 236971,
+            "km": 2.37
+          },
+          {
+            "label": "Rode a horse",
+            "icon": "horse",
+            "cm": 2478,
+            "km": 0.02
+          }
+        ]
+      },
+      "deaths": {
+        "total": 43,
+        "causes": {
+          "Zombie": 11,
+          "Player": 6,
+          "Zombie Villager": 5,
+          "Vindicator": 4,
+          "Stray": 4,
+          "Slime": 3,
+          "Piglin Brute": 1,
+          "Wither": 1,
+          "Skeleton": 1,
+          "Zombified Piglin": 1,
+          "Iron Golem": 1
+        },
+        "nemesis": {
+          "id": "minecraft:zombie",
+          "name": "Zombie",
+          "count": 11
+        },
+        "survivalStreakTicks": 2056428
+      },
+      "grind": {
+        "diamonds": 1460,
+        "totalMined": 172596,
+        "topMined": {
+          "id": "minecraft:stone",
+          "name": "Stone",
+          "count": 31307
+        },
+        "totalPlaced": 80446,
+        "signature": {
+          "id": "minecraft:netherrack",
+          "name": "Netherrack",
+          "count": 12314
+        },
+        "toolsBroken": 29,
+        "picksBroken": 0,
+        "deepslateMined": 7250,
+        "topMinedList": [
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 31307
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 24605
+          },
+          {
+            "id": "minecraft:sand",
+            "name": "Sand",
+            "count": 13640
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 9072
+          },
+          {
+            "id": "minecraft:oak_leaves",
+            "name": "Oak Leaves",
+            "count": 7670
+          },
+          {
+            "id": "minecraft:wheat",
+            "name": "Wheat",
+            "count": 6806
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 12314
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 5536
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 4557
+          },
+          {
+            "id": "minecraft:rail",
+            "name": "Rail",
+            "count": 3661
+          },
+          {
+            "id": "minecraft:packed_ice",
+            "name": "Packed Ice",
+            "count": 3243
+          },
+          {
+            "id": "minecraft:glass",
+            "name": "Glass",
+            "count": 2802
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 2689
+          },
+          {
+            "id": "minecraft:prismarine",
+            "name": "Prismarine",
+            "count": 2581
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 22550,
+        "playerKills": 133,
+        "damageDealt": 1260410,
+        "damageTaken": 237125,
+        "damageBlocked": 21361,
+        "topKills": [
+          {
+            "id": "minecraft:zombified_piglin",
+            "name": "Zombified Piglin",
+            "count": 16748
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 1040
+          },
+          {
+            "id": "minecraft:stray",
+            "name": "Stray",
+            "count": 696
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 563
+          },
+          {
+            "id": "minecraft:slime",
+            "name": "Slime",
+            "count": 423
+          },
+          {
+            "id": "minecraft:enderman",
+            "name": "Enderman",
+            "count": 333
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 4116,
+        "favFood": {
+          "id": "minecraft:golden_carrot",
+          "name": "Golden Carrot",
+          "count": 3424
+        },
+        "slept": 182,
+        "tnt": 1557,
+        "waterPlaced": 2835,
+        "bred": 257,
+        "enchants": 23,
+        "traded": 28392,
+        "talked": 7419,
+        "jumps": 234894,
+        "chestsOpened": 23267,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "da0b4f1b-53b5-447c-95e7-7c8d4d0c39b1",
+      "name": "Fearless5959",
+      "playHours": 207.4,
+      "playDays": 8.6,
+      "playTicks": 14934483,
+      "advancements": 82,
+      "movement": {
+        "totalKm": 1640.3,
+        "comparison": "1.4x the length of Italy",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 71684474,
+          "km": 716.84
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 71684474,
+            "km": 716.84
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 33242225,
+            "km": 332.42
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 24338805,
+            "km": 243.39
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 24122121,
+            "km": 241.22
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 6305389,
+            "km": 63.05
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 2801309,
+            "km": 28.01
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 2617629,
+            "km": 26.18
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 1721316,
+            "km": 17.21
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 1189212,
+            "km": 11.89
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 1183655,
+            "km": 11.84
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 609983,
+            "km": 6.1
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 307117,
+            "km": 3.07
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 216064,
+            "km": 2.16
+          }
+        ]
+      },
+      "deaths": {
+        "total": 127,
+        "causes": {
+          "Player": 46,
+          "Zombie": 8,
+          "Skeleton": 7,
+          "Piglin": 6,
+          "Zombified Piglin": 5,
+          "Iron Golem": 4,
+          "Creeper": 3,
+          "Magma Cube": 2,
+          "Pillager": 2,
+          "Wither Skeleton": 2,
+          "Wither": 1,
+          "Zombie Villager": 1,
+          "Enderman": 1,
+          "Warden": 1,
+          "Piglin Brute": 1,
+          "Blaze": 1,
+          "Hoglin": 1
+        },
+        "nemesis": {
+          "id": "minecraft:player",
+          "name": "Player",
+          "count": 46
+        },
+        "survivalStreakTicks": 751200
+      },
+      "grind": {
+        "diamonds": 355,
+        "totalMined": 113844,
+        "topMined": {
+          "id": "minecraft:stone",
+          "name": "Stone",
+          "count": 24021
+        },
+        "totalPlaced": 60706,
+        "signature": {
+          "id": "minecraft:dirt",
+          "name": "Dirt",
+          "count": 4910
+        },
+        "toolsBroken": 24,
+        "picksBroken": 4,
+        "deepslateMined": 8325,
+        "topMinedList": [
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 24021
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 8233
+          },
+          {
+            "id": "minecraft:deepslate",
+            "name": "Deepslate",
+            "count": 5050
+          },
+          {
+            "id": "minecraft:sand",
+            "name": "Sand",
+            "count": 4886
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 4188
+          },
+          {
+            "id": "minecraft:gravel",
+            "name": "Gravel",
+            "count": 3529
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 4910
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 3875
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 3521
+          },
+          {
+            "id": "minecraft:torch",
+            "name": "Torch",
+            "count": 2851
+          },
+          {
+            "id": "minecraft:scaffolding",
+            "name": "Scaffolding",
+            "count": 2588
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 1623
+          },
+          {
+            "id": "minecraft:glass",
+            "name": "Glass",
+            "count": 1505
+          },
+          {
+            "id": "minecraft:deepslate",
+            "name": "Deepslate",
+            "count": 1175
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 15950,
+        "playerKills": 8,
+        "damageDealt": 548330,
+        "damageTaken": 157972,
+        "damageBlocked": 45097,
+        "topKills": [
+          {
+            "id": "minecraft:stray",
+            "name": "Stray",
+            "count": 7904
+          },
+          {
+            "id": "minecraft:magma_cube",
+            "name": "Magma Cube",
+            "count": 1708
+          },
+          {
+            "id": "minecraft:blaze",
+            "name": "Blaze",
+            "count": 1181
+          },
+          {
+            "id": "minecraft:zombified_piglin",
+            "name": "Zombified Piglin",
+            "count": 1141
+          },
+          {
+            "id": "minecraft:witch",
+            "name": "Witch",
+            "count": 569
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 436
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 4550,
+        "favFood": {
+          "id": "minecraft:baked_potato",
+          "name": "Baked Potato",
+          "count": 2295
+        },
+        "slept": 269,
+        "tnt": 139,
+        "waterPlaced": 584,
+        "bred": 135,
+        "enchants": 268,
+        "traded": 487,
+        "talked": 314,
+        "jumps": 202641,
+        "chestsOpened": 27692,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "828c8f27-cce7-4cf9-a4ae-90b6186af030",
+      "name": "arco23",
+      "playHours": 199.8,
+      "playDays": 8.3,
+      "playTicks": 14385225,
+      "advancements": 83,
+      "movement": {
+        "totalKm": 1866.1,
+        "comparison": "1.6x the length of Italy",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 74533150,
+          "km": 745.33
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 74533150,
+            "km": 745.33
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 41744802,
+            "km": 417.45
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 32912668,
+            "km": 329.13
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 20060198,
+            "km": 200.6
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 10179135,
+            "km": 101.79
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 7742092,
+            "km": 77.42
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 5065257,
+            "km": 50.65
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 1717548,
+            "km": 17.18
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 1150835,
+            "km": 11.51
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 584742,
+            "km": 5.85
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 566639,
+            "km": 5.67
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 252831,
+            "km": 2.53
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 171317,
+            "km": 1.71
+          },
+          {
+            "label": "Dolphin-rode",
+            "icon": "dolphin",
+            "cm": 79487,
+            "km": 0.79
+          },
+          {
+            "label": "Rode a horse",
+            "icon": "horse",
+            "cm": 28046,
+            "km": 0.28
+          }
+        ]
+      },
+      "deaths": {
+        "total": 53,
+        "causes": {
+          "Zombie Villager": 12,
+          "Zombie": 7,
+          "Player": 4,
+          "Wither": 3,
+          "Zombified Piglin": 2,
+          "Iron Golem": 2,
+          "Piglin Brute": 1,
+          "Creeper": 1,
+          "Stray": 1
+        },
+        "nemesis": {
+          "id": "minecraft:zombie_villager",
+          "name": "Zombie Villager",
+          "count": 12
+        },
+        "survivalStreakTicks": 694111
+      },
+      "grind": {
+        "diamonds": 654,
+        "totalMined": 145106,
+        "topMined": {
+          "id": "minecraft:stone",
+          "name": "Stone",
+          "count": 42647
+        },
+        "totalPlaced": 119853,
+        "signature": {
+          "id": "minecraft:smooth_sandstone",
+          "name": "Smooth Sandstone",
+          "count": 14414
+        },
+        "toolsBroken": 15,
+        "picksBroken": 5,
+        "deepslateMined": 4790,
+        "topMinedList": [
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 42647
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 13166
+          },
+          {
+            "id": "minecraft:magma_block",
+            "name": "Magma Block",
+            "count": 8671
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 8330
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 8058
+          },
+          {
+            "id": "minecraft:sand",
+            "name": "Sand",
+            "count": 3245
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:smooth_sandstone",
+            "name": "Smooth Sandstone",
+            "count": 14414
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 11892
+          },
+          {
+            "id": "minecraft:magma_block",
+            "name": "Magma Block",
+            "count": 9975
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 3853
+          },
+          {
+            "id": "minecraft:rail",
+            "name": "Rail",
+            "count": 3540
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 3162
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 2669
+          },
+          {
+            "id": "minecraft:prismarine",
+            "name": "Prismarine",
+            "count": 2213
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 87029,
+        "playerKills": 36,
+        "damageDealt": 3044198,
+        "damageTaken": 140735,
+        "damageBlocked": 17093,
+        "topKills": [
+          {
+            "id": "minecraft:zombified_piglin",
+            "name": "Zombified Piglin",
+            "count": 82139
+          },
+          {
+            "id": "minecraft:wither_skeleton",
+            "name": "Wither Skeleton",
+            "count": 2732
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 423
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 260
+          },
+          {
+            "id": "minecraft:spider",
+            "name": "Spider",
+            "count": 147
+          },
+          {
+            "id": "minecraft:slime",
+            "name": "Slime",
+            "count": 95
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 3764,
+        "favFood": {
+          "id": "minecraft:golden_carrot",
+          "name": "Golden Carrot",
+          "count": 2015
+        },
+        "slept": 138,
+        "tnt": 0,
+        "waterPlaced": 1793,
+        "bred": 56,
+        "enchants": 7,
+        "traded": 5062,
+        "talked": 2336,
+        "jumps": 183687,
+        "chestsOpened": 32483,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "6b58c34b-a634-4964-9a44-f9d99676ae06",
+      "name": "PicklRickl",
+      "playHours": 177.9,
+      "playDays": 7.4,
+      "playTicks": 12808378,
+      "advancements": 93,
+      "movement": {
+        "totalKm": 1908.5,
+        "comparison": "1.6x the length of Italy",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 95934789,
+          "km": 959.35
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 95934789,
+            "km": 959.35
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 31481380,
+            "km": 314.81
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 26206011,
+            "km": 262.06
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 19081278,
+            "km": 190.81
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 7299745,
+            "km": 73.0
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 6629386,
+            "km": 66.29
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 4051147,
+            "km": 40.51
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 3086611,
+            "km": 30.87
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 1355345,
+            "km": 13.55
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 1294102,
+            "km": 12.94
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 1150611,
+            "km": 11.51
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 280631,
+            "km": 2.81
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 250851,
+            "km": 2.51
+          },
+          {
+            "label": "Rode a horse",
+            "icon": "horse",
+            "cm": 48324,
+            "km": 0.48
+          }
+        ]
+      },
+      "deaths": {
+        "total": 83,
+        "causes": {
+          "Guardian": 30,
+          "Player": 23,
+          "Skeleton": 4,
+          "Warden": 3,
+          "Blaze": 2,
+          "Creeper": 2,
+          "Ghast": 2,
+          "Wither Skeleton": 2,
+          "Zombie": 2,
+          "Enderman": 1
+        },
+        "nemesis": {
+          "id": "minecraft:guardian",
+          "name": "Guardian",
+          "count": 30
+        },
+        "survivalStreakTicks": 882981
+      },
+      "grind": {
+        "diamonds": 685,
+        "totalMined": 204695,
+        "topMined": {
+          "id": "minecraft:stone",
+          "name": "Stone",
+          "count": 41994
+        },
+        "totalPlaced": 130981,
+        "signature": {
+          "id": "minecraft:gravel",
+          "name": "Gravel",
+          "count": 23984
+        },
+        "toolsBroken": 31,
+        "picksBroken": 4,
+        "deepslateMined": 4181,
+        "topMinedList": [
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 41994
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 22777
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 22433
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 20957
+          },
+          {
+            "id": "minecraft:mangrove_leaves",
+            "name": "Mangrove Leaves",
+            "count": 7125
+          },
+          {
+            "id": "minecraft:sculk",
+            "name": "Sculk",
+            "count": 4604
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:gravel",
+            "name": "Gravel",
+            "count": 23984
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 9383
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 8761
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 7634
+          },
+          {
+            "id": "minecraft:snow_block",
+            "name": "Snow Block",
+            "count": 5118
+          },
+          {
+            "id": "minecraft:kelp",
+            "name": "Kelp",
+            "count": 5063
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 4268
+          },
+          {
+            "id": "minecraft:slime_block",
+            "name": "Slime Block",
+            "count": 3209
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 88254,
+        "playerKills": 117,
+        "damageDealt": 343181,
+        "damageTaken": 311869,
+        "damageBlocked": 2133,
+        "topKills": [
+          {
+            "id": "minecraft:guardian",
+            "name": "Guardian",
+            "count": 68912
+          },
+          {
+            "id": "minecraft:slime",
+            "name": "Slime",
+            "count": 14883
+          },
+          {
+            "id": "minecraft:zombified_piglin",
+            "name": "Zombified Piglin",
+            "count": 2184
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 394
+          },
+          {
+            "id": "minecraft:cow",
+            "name": "Cow",
+            "count": 237
+          },
+          {
+            "id": "minecraft:snow_golem",
+            "name": "Snow Golem",
+            "count": 207
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 2949,
+        "favFood": {
+          "id": "minecraft:golden_carrot",
+          "name": "Golden Carrot",
+          "count": 1276
+        },
+        "slept": 75,
+        "tnt": 31,
+        "waterPlaced": 897,
+        "bred": 208,
+        "enchants": 263,
+        "traded": 435,
+        "talked": 141,
+        "jumps": 149404,
+        "chestsOpened": 20951,
+        "fishCaught": 1
+      }
+    },
+    {
+      "uuid": "785cd493-19c0-4624-bb91-bd6885f2b729",
+      "name": "pob41",
+      "playHours": 138.5,
+      "playDays": 5.8,
+      "playTicks": 9975155,
+      "advancements": 72,
+      "movement": {
+        "totalKm": 2021.3,
+        "comparison": "1.7x the length of Italy",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 119375275,
+          "km": 1193.75
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 119375275,
+            "km": 1193.75
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 30021227,
+            "km": 300.21
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 24574138,
+            "km": 245.74
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 18887904,
+            "km": 188.88
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 5083322,
+            "km": 50.83
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 2670900,
+            "km": 26.71
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 2319616,
+            "km": 23.2
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 1612682,
+            "km": 16.13
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 917646,
+            "km": 9.18
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 900491,
+            "km": 9.0
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 609025,
+            "km": 6.09
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 171275,
+            "km": 1.71
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 68438,
+            "km": 0.68
+          },
+          {
+            "label": "Rode a horse",
+            "icon": "horse",
+            "cm": 517,
+            "km": 0.01
+          }
+        ]
+      },
+      "deaths": {
+        "total": 22,
+        "causes": {
+          "Player": 11,
+          "Blaze": 2,
+          "Zombie": 2,
+          "Parched": 1,
+          "Creeper": 1,
+          "Guardian": 1,
+          "Husk": 1
+        },
+        "nemesis": {
+          "id": "minecraft:player",
+          "name": "Player",
+          "count": 11
+        },
+        "survivalStreakTicks": 2182149
+      },
+      "grind": {
+        "diamonds": 1480,
+        "totalMined": 94737,
+        "topMined": {
+          "id": "minecraft:stone",
+          "name": "Stone",
+          "count": 26858
+        },
+        "totalPlaced": 75874,
+        "signature": {
+          "id": "minecraft:stone",
+          "name": "Stone",
+          "count": 9485
+        },
+        "toolsBroken": 7,
+        "picksBroken": 0,
+        "deepslateMined": 5907,
+        "topMinedList": [
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 26858
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 10470
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 6619
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 4309
+          },
+          {
+            "id": "minecraft:deepslate",
+            "name": "Deepslate",
+            "count": 3865
+          },
+          {
+            "id": "minecraft:sand",
+            "name": "Sand",
+            "count": 2716
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 9485
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 8609
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 2945
+          },
+          {
+            "id": "minecraft:jungle_planks",
+            "name": "Jungle Planks",
+            "count": 2558
+          },
+          {
+            "id": "minecraft:gravel",
+            "name": "Gravel",
+            "count": 2511
+          },
+          {
+            "id": "minecraft:stone_bricks",
+            "name": "Stone Bricks",
+            "count": 1773
+          },
+          {
+            "id": "minecraft:bricks",
+            "name": "Bricks",
+            "count": 1729
+          },
+          {
+            "id": "minecraft:spruce_log",
+            "name": "Spruce Log",
+            "count": 1495
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 7063,
+        "playerKills": 44,
+        "damageDealt": 251493,
+        "damageTaken": 127420,
+        "damageBlocked": 135,
+        "topKills": [
+          {
+            "id": "minecraft:zombified_piglin",
+            "name": "Zombified Piglin",
+            "count": 4825
+          },
+          {
+            "id": "minecraft:guardian",
+            "name": "Guardian",
+            "count": 718
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 410
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 226
+          },
+          {
+            "id": "minecraft:creeper",
+            "name": "Creeper",
+            "count": 118
+          },
+          {
+            "id": "minecraft:spider",
+            "name": "Spider",
+            "count": 99
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 2567,
+        "favFood": {
+          "id": "minecraft:golden_carrot",
+          "name": "Golden Carrot",
+          "count": 964
+        },
+        "slept": 190,
+        "tnt": 304,
+        "waterPlaced": 412,
+        "bred": 174,
+        "enchants": 2,
+        "traded": 463,
+        "talked": 107,
+        "jumps": 131560,
+        "chestsOpened": 9638,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "95302b7f-49a1-4682-b567-a3d7ef436203",
+      "name": "MachSpeed_08",
+      "playHours": 121.2,
+      "playDays": 5.1,
+      "playTicks": 8728951,
+      "advancements": 71,
+      "movement": {
+        "totalKm": 1443.9,
+        "comparison": "1.2x the length of Italy",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 57199457,
+          "km": 571.99
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 57199457,
+            "km": 571.99
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 39927499,
+            "km": 399.27
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 21847578,
+            "km": 218.48
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 18920584,
+            "km": 189.21
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 6805003,
+            "km": 68.05
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 2238408,
+            "km": 22.38
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 989718,
+            "km": 9.9
+          },
+          {
+            "label": "Rode a strider",
+            "icon": "lava",
+            "cm": 683094,
+            "km": 6.83
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 560511,
+            "km": 5.61
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 507574,
+            "km": 5.08
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 481240,
+            "km": 4.81
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 458049,
+            "km": 4.58
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 334818,
+            "km": 3.35
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 245937,
+            "km": 2.46
+          }
+        ]
+      },
+      "deaths": {
+        "total": 302,
+        "causes": {
+          "Player": 89,
+          "Zombified Piglin": 19,
+          "Skeleton": 9,
+          "Blaze": 3,
+          "Piglin": 3,
+          "Zombie": 3,
+          "Piglin Brute": 2,
+          "Wither Skeleton": 2,
+          "Enderman": 1,
+          "Ghast": 1
+        },
+        "nemesis": {
+          "id": "minecraft:player",
+          "name": "Player",
+          "count": 89
+        },
+        "survivalStreakTicks": 236242
+      },
+      "grind": {
+        "diamonds": 531,
+        "totalMined": 71395,
+        "topMined": {
+          "id": "minecraft:netherrack",
+          "name": "Netherrack",
+          "count": 32025
+        },
+        "totalPlaced": 25706,
+        "signature": {
+          "id": "minecraft:netherrack",
+          "name": "Netherrack",
+          "count": 6214
+        },
+        "toolsBroken": 38,
+        "picksBroken": 14,
+        "deepslateMined": 7120,
+        "topMinedList": [
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 32025
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 6369
+          },
+          {
+            "id": "minecraft:deepslate",
+            "name": "Deepslate",
+            "count": 5972
+          },
+          {
+            "id": "minecraft:sculk",
+            "name": "Sculk",
+            "count": 2356
+          },
+          {
+            "id": "minecraft:nether_quartz_ore",
+            "name": "Nether Quartz Ore",
+            "count": 1770
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 1674
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 6214
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 2509
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 2396
+          },
+          {
+            "id": "minecraft:deepslate_bricks",
+            "name": "Deepslate Bricks",
+            "count": 1839
+          },
+          {
+            "id": "minecraft:scaffolding",
+            "name": "Scaffolding",
+            "count": 1123
+          },
+          {
+            "id": "minecraft:polished_blackstone_bricks",
+            "name": "Polished Blackstone Bricks",
+            "count": 983
+          },
+          {
+            "id": "minecraft:packed_ice",
+            "name": "Packed Ice",
+            "count": 744
+          },
+          {
+            "id": "minecraft:gray_glazed_terracotta",
+            "name": "Gray Glazed Terracotta",
+            "count": 615
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 9824,
+        "playerKills": 1,
+        "damageDealt": 428192,
+        "damageTaken": 214127,
+        "damageBlocked": 21453,
+        "topKills": [
+          {
+            "id": "minecraft:zombified_piglin",
+            "name": "Zombified Piglin",
+            "count": 8213
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 329
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 263
+          },
+          {
+            "id": "minecraft:spider",
+            "name": "Spider",
+            "count": 78
+          },
+          {
+            "id": "minecraft:hoglin",
+            "name": "Hoglin",
+            "count": 77
+          },
+          {
+            "id": "minecraft:magma_cube",
+            "name": "Magma Cube",
+            "count": 76
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 5127,
+        "favFood": {
+          "id": "minecraft:carrot",
+          "name": "Carrot",
+          "count": 4010
+        },
+        "slept": 120,
+        "tnt": 55,
+        "waterPlaced": 515,
+        "bred": 155,
+        "enchants": 2,
+        "traded": 653,
+        "talked": 366,
+        "jumps": 188695,
+        "chestsOpened": 11235,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "e953e9e0-cb87-4a15-9287-1fdca12ced93",
+      "name": "Wyvr_",
+      "playHours": 106.3,
+      "playDays": 4.4,
+      "playTicks": 7655644,
+      "advancements": 74,
+      "movement": {
+        "totalKm": 1388.1,
+        "comparison": "1.2x the length of Italy",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 60762041,
+          "km": 607.62
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 60762041,
+            "km": 607.62
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 35596985,
+            "km": 355.97
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 19159121,
+            "km": 191.59
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 15304217,
+            "km": 153.04
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 5190564,
+            "km": 51.91
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 3744969,
+            "km": 37.45
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 1111236,
+            "km": 11.11
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 955706,
+            "km": 9.56
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 774581,
+            "km": 7.75
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 548498,
+            "km": 5.48
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 414659,
+            "km": 4.15
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 263160,
+            "km": 2.63
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 177807,
+            "km": 1.78
+          },
+          {
+            "label": "Dolphin-rode",
+            "icon": "dolphin",
+            "cm": 1180,
+            "km": 0.01
+          },
+          {
+            "label": "Rode a horse",
+            "icon": "horse",
+            "cm": 815,
+            "km": 0.01
+          }
+        ]
+      },
+      "deaths": {
+        "total": 314,
+        "causes": {
+          "Player": 227,
+          "Zombie": 18,
+          "Stray": 13,
+          "Iron Golem": 7,
+          "Piglin": 3,
+          "Creeper": 2,
+          "Wither": 1,
+          "Enderman": 1,
+          "Pufferfish": 1,
+          "Ghast": 1
+        },
+        "nemesis": {
+          "id": "minecraft:player",
+          "name": "Player",
+          "count": 227
+        },
+        "survivalStreakTicks": 288185
+      },
+      "grind": {
+        "diamonds": 1302,
+        "totalMined": 111259,
+        "topMined": {
+          "id": "minecraft:stone",
+          "name": "Stone",
+          "count": 29629
+        },
+        "totalPlaced": 39861,
+        "signature": {
+          "id": "minecraft:grass_block",
+          "name": "Grass Block",
+          "count": 3437
+        },
+        "toolsBroken": 16,
+        "picksBroken": 3,
+        "deepslateMined": 9016,
+        "topMinedList": [
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 29629
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 9292
+          },
+          {
+            "id": "minecraft:tuff",
+            "name": "Tuff",
+            "count": 8957
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 8120
+          },
+          {
+            "id": "minecraft:short_grass",
+            "name": "Short Grass",
+            "count": 7402
+          },
+          {
+            "id": "minecraft:deepslate",
+            "name": "Deepslate",
+            "count": 7334
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 3437
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 2020
+          },
+          {
+            "id": "minecraft:polished_deepslate",
+            "name": "Polished Deepslate",
+            "count": 1847
+          },
+          {
+            "id": "minecraft:tuff_bricks",
+            "name": "Tuff Bricks",
+            "count": 1660
+          },
+          {
+            "id": "minecraft:deepslate_bricks",
+            "name": "Deepslate Bricks",
+            "count": 1575
+          },
+          {
+            "id": "minecraft:spruce_planks",
+            "name": "Spruce Planks",
+            "count": 1448
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 1275
+          },
+          {
+            "id": "minecraft:polished_tuff_wall",
+            "name": "Polished Tuff Wall",
+            "count": 1217
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 7250,
+        "playerKills": 55,
+        "damageDealt": 349991,
+        "damageTaken": 163256,
+        "damageBlocked": 12026,
+        "topKills": [
+          {
+            "id": "minecraft:zombified_piglin",
+            "name": "Zombified Piglin",
+            "count": 5561
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 382
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 228
+          },
+          {
+            "id": "minecraft:creeper",
+            "name": "Creeper",
+            "count": 158
+          },
+          {
+            "id": "minecraft:spider",
+            "name": "Spider",
+            "count": 82
+          },
+          {
+            "id": "minecraft:stray",
+            "name": "Stray",
+            "count": 64
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 1658,
+        "favFood": {
+          "id": "minecraft:golden_carrot",
+          "name": "Golden Carrot",
+          "count": 1288
+        },
+        "slept": 113,
+        "tnt": 0,
+        "waterPlaced": 1002,
+        "bred": 85,
+        "enchants": 19,
+        "traded": 2812,
+        "talked": 542,
+        "jumps": 164101,
+        "chestsOpened": 10261,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "cb7b9204-34c8-48a3-bb00-0302be6b81ab",
+      "name": "mxs_eagle",
+      "playHours": 64.0,
+      "playDays": 2.7,
+      "playTicks": 4606345,
+      "advancements": 40,
+      "movement": {
+        "totalKm": 447.2,
+        "comparison": "1.3x the drive from London to Paris",
+        "dominant": {
+          "label": "Walked",
+          "icon": "boot",
+          "cm": 20316751,
+          "km": 203.17
+        },
+        "modes": [
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 20316751,
+            "km": 203.17
+          },
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 12133009,
+            "km": 121.33
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 6557610,
+            "km": 65.58
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 2745866,
+            "km": 27.46
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 1838320,
+            "km": 18.38
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 439508,
+            "km": 4.4
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 380085,
+            "km": 3.8
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 279352,
+            "km": 2.79
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 231136,
+            "km": 2.31
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 129379,
+            "km": 1.29
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 67143,
+            "km": 0.67
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 46067,
+            "km": 0.46
+          }
+        ]
+      },
+      "deaths": {
+        "total": 62,
+        "causes": {
+          "Skeleton": 18,
+          "Creeper": 9,
+          "Zombie": 9,
+          "Pillager": 6,
+          "Player": 4,
+          "Witch": 1,
+          "Spider": 1,
+          "Piglin": 1,
+          "Iron Golem": 1
+        },
+        "nemesis": {
+          "id": "minecraft:skeleton",
+          "name": "Skeleton",
+          "count": 18
+        },
+        "survivalStreakTicks": 0
+      },
+      "grind": {
+        "diamonds": 48,
+        "totalMined": 24688,
+        "topMined": {
+          "id": "minecraft:stone",
+          "name": "Stone",
+          "count": 6257
+        },
+        "totalPlaced": 21617,
+        "signature": {
+          "id": "minecraft:dirt",
+          "name": "Dirt",
+          "count": 4958
+        },
+        "toolsBroken": 37,
+        "picksBroken": 11,
+        "deepslateMined": 5547,
+        "topMinedList": [
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 6257
+          },
+          {
+            "id": "minecraft:deepslate",
+            "name": "Deepslate",
+            "count": 3995
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 2357
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 2163
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 806
+          },
+          {
+            "id": "minecraft:short_grass",
+            "name": "Short Grass",
+            "count": 679
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 4958
+          },
+          {
+            "id": "minecraft:chiseled_deepslate",
+            "name": "Chiseled Deepslate",
+            "count": 2644
+          },
+          {
+            "id": "minecraft:deepslate_tiles",
+            "name": "Deepslate Tiles",
+            "count": 2346
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 2184
+          },
+          {
+            "id": "minecraft:stone_bricks",
+            "name": "Stone Bricks",
+            "count": 1886
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 1756
+          },
+          {
+            "id": "minecraft:torch",
+            "name": "Torch",
+            "count": 945
+          },
+          {
+            "id": "minecraft:deepslate_tile_wall",
+            "name": "Deepslate Tile Wall",
+            "count": 899
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 1542,
+        "playerKills": 0,
+        "damageDealt": 75767,
+        "damageTaken": 32296,
+        "damageBlocked": 0,
+        "topKills": [
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 502
+          },
+          {
+            "id": "minecraft:creeper",
+            "name": "Creeper",
+            "count": 449
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 435
+          },
+          {
+            "id": "minecraft:sheep",
+            "name": "Sheep",
+            "count": 30
+          },
+          {
+            "id": "minecraft:cow",
+            "name": "Cow",
+            "count": 22
+          },
+          {
+            "id": "minecraft:zombie_villager",
+            "name": "Zombie Villager",
+            "count": 15
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 434,
+        "favFood": {
+          "id": "minecraft:bread",
+          "name": "Bread",
+          "count": 138
+        },
+        "slept": 105,
+        "tnt": 0,
+        "waterPlaced": 106,
+        "bred": 18,
+        "enchants": 0,
+        "traded": 0,
+        "talked": 47,
+        "jumps": 22411,
+        "chestsOpened": 2195,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "aaad10d5-537d-481b-a902-e0ff4be8f45c",
+      "name": "RedRaven767",
+      "playHours": 42.4,
+      "playDays": 1.8,
+      "playTicks": 3055911,
+      "advancements": 49,
+      "movement": {
+        "totalKm": 491.5,
+        "comparison": "1.4x the drive from London to Paris",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 24326601,
+          "km": 243.27
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 24326601,
+            "km": 243.27
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 9278003,
+            "km": 92.78
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 7411469,
+            "km": 74.11
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 6592793,
+            "km": 65.93
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 1210827,
+            "km": 12.11
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 367497,
+            "km": 3.67
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 335777,
+            "km": 3.36
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 236812,
+            "km": 2.37
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 209961,
+            "km": 2.1
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 189098,
+            "km": 1.89
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 158377,
+            "km": 1.58
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 43425,
+            "km": 0.43
+          }
+        ]
+      },
+      "deaths": {
+        "total": 29,
+        "causes": {
+          "Player": 5,
+          "Drowned": 5,
+          "Zombie": 3,
+          "Skeleton": 2,
+          "Zombified Piglin": 1,
+          "Enderman": 1
+        },
+        "nemesis": {
+          "id": "minecraft:player",
+          "name": "Player",
+          "count": 5
+        },
+        "survivalStreakTicks": 193586
+      },
+      "grind": {
+        "diamonds": 149,
+        "totalMined": 39193,
+        "topMined": {
+          "id": "minecraft:stone",
+          "name": "Stone",
+          "count": 11965
+        },
+        "totalPlaced": 16493,
+        "signature": {
+          "id": "minecraft:stone",
+          "name": "Stone",
+          "count": 3080
+        },
+        "toolsBroken": 19,
+        "picksBroken": 4,
+        "deepslateMined": 1479,
+        "topMinedList": [
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 11965
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 4020
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 3491
+          },
+          {
+            "id": "minecraft:sand",
+            "name": "Sand",
+            "count": 1768
+          },
+          {
+            "id": "minecraft:oak_leaves",
+            "name": "Oak Leaves",
+            "count": 1719
+          },
+          {
+            "id": "minecraft:sandstone",
+            "name": "Sandstone",
+            "count": 1571
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 3080
+          },
+          {
+            "id": "minecraft:stone_bricks",
+            "name": "Stone Bricks",
+            "count": 2271
+          },
+          {
+            "id": "minecraft:sandstone",
+            "name": "Sandstone",
+            "count": 995
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 872
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 753
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 723
+          },
+          {
+            "id": "minecraft:spruce_log",
+            "name": "Spruce Log",
+            "count": 619
+          },
+          {
+            "id": "minecraft:oak_planks",
+            "name": "Oak Planks",
+            "count": 592
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 6023,
+        "playerKills": 3,
+        "damageDealt": 80963,
+        "damageTaken": 36128,
+        "damageBlocked": 6857,
+        "topKills": [
+          {
+            "id": "minecraft:zombified_piglin",
+            "name": "Zombified Piglin",
+            "count": 5691
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 124
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 65
+          },
+          {
+            "id": "minecraft:creeper",
+            "name": "Creeper",
+            "count": 37
+          },
+          {
+            "id": "minecraft:spider",
+            "name": "Spider",
+            "count": 31
+          },
+          {
+            "id": "minecraft:salmon",
+            "name": "Salmon",
+            "count": 14
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 1495,
+        "favFood": {
+          "id": "minecraft:potato",
+          "name": "Potato",
+          "count": 465
+        },
+        "slept": 71,
+        "tnt": 0,
+        "waterPlaced": 142,
+        "bred": 2,
+        "enchants": 0,
+        "traded": 0,
+        "talked": 10,
+        "jumps": 42562,
+        "chestsOpened": 1532,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "49778586-aa3c-42ca-a127-073bf177b482",
+      "name": "SamuraiBoss",
+      "playHours": 39.5,
+      "playDays": 1.6,
+      "playTicks": 2844268,
+      "advancements": 56,
+      "movement": {
+        "totalKm": 361.1,
+        "comparison": "the drive from London to Paris",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 12614845,
+          "km": 126.15
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 12614845,
+            "km": 126.15
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 7271670,
+            "km": 72.72
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 6629736,
+            "km": 66.3
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 6308692,
+            "km": 63.09
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 1226228,
+            "km": 12.26
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 986985,
+            "km": 9.87
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 880911,
+            "km": 8.81
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 607945,
+            "km": 6.08
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 221972,
+            "km": 2.22
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 197289,
+            "km": 1.97
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 183443,
+            "km": 1.83
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 173188,
+            "km": 1.73
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 33208,
+            "km": 0.33
+          }
+        ]
+      },
+      "deaths": {
+        "total": 38,
+        "causes": {
+          "Player": 8,
+          "Wither Skeleton": 7,
+          "Skeleton": 3,
+          "Blaze": 2,
+          "Piglin Brute": 1,
+          "Magma Cube": 1,
+          "Enderman": 1,
+          "Hoglin": 1,
+          "Piglin": 1,
+          "Shulker": 1
+        },
+        "nemesis": {
+          "id": "minecraft:player",
+          "name": "Player",
+          "count": 8
+        },
+        "survivalStreakTicks": 332729
+      },
+      "grind": {
+        "diamonds": 71,
+        "totalMined": 16079,
+        "topMined": {
+          "id": "minecraft:grass_block",
+          "name": "Grass Block",
+          "count": 2228
+        },
+        "totalPlaced": 15990,
+        "signature": {
+          "id": "minecraft:dirt",
+          "name": "Dirt",
+          "count": 3290
+        },
+        "toolsBroken": 19,
+        "picksBroken": 10,
+        "deepslateMined": 1027,
+        "topMinedList": [
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 2228
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 2127
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 2014
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 945
+          },
+          {
+            "id": "minecraft:deepslate",
+            "name": "Deepslate",
+            "count": 646
+          },
+          {
+            "id": "minecraft:dark_oak_log",
+            "name": "Dark Oak Log",
+            "count": 521
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 3290
+          },
+          {
+            "id": "minecraft:stone_bricks",
+            "name": "Stone Bricks",
+            "count": 1329
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 1126
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 1063
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 1056
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 633
+          },
+          {
+            "id": "minecraft:torch",
+            "name": "Torch",
+            "count": 515
+          },
+          {
+            "id": "minecraft:rail",
+            "name": "Rail",
+            "count": 470
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 2716,
+        "playerKills": 8,
+        "damageDealt": 86194,
+        "damageTaken": 39337,
+        "damageBlocked": 6371,
+        "topKills": [
+          {
+            "id": "minecraft:zombified_piglin",
+            "name": "Zombified Piglin",
+            "count": 2389
+          },
+          {
+            "id": "minecraft:enderman",
+            "name": "Enderman",
+            "count": 72
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 51
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 42
+          },
+          {
+            "id": "minecraft:wither_skeleton",
+            "name": "Wither Skeleton",
+            "count": 27
+          },
+          {
+            "id": "minecraft:magma_cube",
+            "name": "Magma Cube",
+            "count": 22
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 706,
+        "favFood": {
+          "id": "minecraft:baked_potato",
+          "name": "Baked Potato",
+          "count": 352
+        },
+        "slept": 60,
+        "tnt": 7,
+        "waterPlaced": 154,
+        "bred": 114,
+        "enchants": 13,
+        "traded": 132,
+        "talked": 242,
+        "jumps": 47980,
+        "chestsOpened": 3427,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "9f061a43-c0b5-4b31-857d-5ef936efeb89",
+      "name": "steve69god",
+      "playHours": 36.9,
+      "playDays": 1.5,
+      "playTicks": 2659409,
+      "advancements": 53,
+      "movement": {
+        "totalKm": 233.7,
+        "comparison": "2.3x a 100 km ultramarathon",
+        "dominant": {
+          "label": "Walked",
+          "icon": "boot",
+          "cm": 5939233,
+          "km": 59.39
+        },
+        "modes": [
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 5939233,
+            "km": 59.39
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 5864279,
+            "km": 58.64
+          },
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 4687041,
+            "km": 46.87
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 4572755,
+            "km": 45.73
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 1131695,
+            "km": 11.32
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 793721,
+            "km": 7.94
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 456971,
+            "km": 4.57
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 265243,
+            "km": 2.65
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 147638,
+            "km": 1.48
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 136471,
+            "km": 1.36
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 135132,
+            "km": 1.35
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 22042,
+            "km": 0.22
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 13113,
+            "km": 0.13
+          },
+          {
+            "label": "Rode a horse",
+            "icon": "horse",
+            "cm": 213,
+            "km": 0.0
+          }
+        ]
+      },
+      "deaths": {
+        "total": 14,
+        "causes": {
+          "Vindicator": 5,
+          "Vex": 4,
+          "Skeleton": 2,
+          "Player": 2
+        },
+        "nemesis": {
+          "id": "minecraft:vindicator",
+          "name": "Vindicator",
+          "count": 5
+        },
+        "survivalStreakTicks": 2416646
+      },
+      "grind": {
+        "diamonds": 66,
+        "totalMined": 57099,
+        "topMined": {
+          "id": "minecraft:netherrack",
+          "name": "Netherrack",
+          "count": 33016
+        },
+        "totalPlaced": 10990,
+        "signature": {
+          "id": "minecraft:grass_block",
+          "name": "Grass Block",
+          "count": 1865
+        },
+        "toolsBroken": 8,
+        "picksBroken": 6,
+        "deepslateMined": 332,
+        "topMinedList": [
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 33016
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 4765
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 3783
+          },
+          {
+            "id": "minecraft:sand",
+            "name": "Sand",
+            "count": 3645
+          },
+          {
+            "id": "minecraft:bamboo",
+            "name": "Bamboo",
+            "count": 2730
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 1344
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 1865
+          },
+          {
+            "id": "minecraft:sand",
+            "name": "Sand",
+            "count": 1702
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 1685
+          },
+          {
+            "id": "minecraft:rail",
+            "name": "Rail",
+            "count": 578
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 490
+          },
+          {
+            "id": "minecraft:sugar_cane",
+            "name": "Sugar Cane",
+            "count": 477
+          },
+          {
+            "id": "minecraft:powered_rail",
+            "name": "Powered Rail",
+            "count": 385
+          },
+          {
+            "id": "minecraft:stone_brick_slab",
+            "name": "Stone Brick Slab",
+            "count": 377
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 726,
+        "playerKills": 1,
+        "damageDealt": 125355,
+        "damageTaken": 26066,
+        "damageBlocked": 5268,
+        "topKills": [
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 225
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 86
+          },
+          {
+            "id": "minecraft:slime",
+            "name": "Slime",
+            "count": 74
+          },
+          {
+            "id": "minecraft:husk",
+            "name": "Husk",
+            "count": 34
+          },
+          {
+            "id": "minecraft:creeper",
+            "name": "Creeper",
+            "count": 34
+          },
+          {
+            "id": "minecraft:spider",
+            "name": "Spider",
+            "count": 28
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 475,
+        "favFood": {
+          "id": "minecraft:golden_carrot",
+          "name": "Golden Carrot",
+          "count": 227
+        },
+        "slept": 8,
+        "tnt": 7,
+        "waterPlaced": 505,
+        "bred": 1,
+        "enchants": 0,
+        "traded": 1688,
+        "talked": 403,
+        "jumps": 31553,
+        "chestsOpened": 3111,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "4b899170-34b8-4c6c-a353-f675abb4e8f1",
+      "name": "Floating_Pikachu",
+      "playHours": 32.7,
+      "playDays": 1.4,
+      "playTicks": 2355596,
+      "advancements": 56,
+      "movement": {
+        "totalKm": 402.4,
+        "comparison": "1.2x the drive from London to Paris",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 18727016,
+          "km": 187.27
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 18727016,
+            "km": 187.27
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 9612207,
+            "km": 96.12
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 7292905,
+            "km": 72.93
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 2261389,
+            "km": 22.61
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 2007066,
+            "km": 20.07
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 894975,
+            "km": 8.95
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 551395,
+            "km": 5.51
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 350531,
+            "km": 3.51
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 214055,
+            "km": 2.14
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 211686,
+            "km": 2.12
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 126700,
+            "km": 1.27
+          }
+        ]
+      },
+      "deaths": {
+        "total": 64,
+        "causes": {
+          "Player": 23,
+          "Enderman": 5,
+          "Creeper": 4,
+          "Skeleton": 3,
+          "Zombified Piglin": 2,
+          "Drowned": 1,
+          "Zombie": 1
+        },
+        "nemesis": {
+          "id": "minecraft:player",
+          "name": "Player",
+          "count": 23
+        },
+        "survivalStreakTicks": 109283
+      },
+      "grind": {
+        "diamonds": 656,
+        "totalMined": 18366,
+        "topMined": {
+          "id": "minecraft:deepslate",
+          "name": "Deepslate",
+          "count": 6609
+        },
+        "totalPlaced": 4800,
+        "signature": {
+          "id": "minecraft:cobbled_deepslate",
+          "name": "Cobbled Deepslate",
+          "count": 1106
+        },
+        "toolsBroken": 10,
+        "picksBroken": 0,
+        "deepslateMined": 7625,
+        "topMinedList": [
+          {
+            "id": "minecraft:deepslate",
+            "name": "Deepslate",
+            "count": 6609
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 4003
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 796
+          },
+          {
+            "id": "minecraft:waxed_copper_block",
+            "name": "Waxed Copper Block",
+            "count": 733
+          },
+          {
+            "id": "minecraft:deepslate_diamond_ore",
+            "name": "Deepslate Diamond Ore",
+            "count": 651
+          },
+          {
+            "id": "minecraft:tuff",
+            "name": "Tuff",
+            "count": 473
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:cobbled_deepslate",
+            "name": "Cobbled Deepslate",
+            "count": 1106
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 597
+          },
+          {
+            "id": "minecraft:black_glazed_terracotta",
+            "name": "Black Glazed Terracotta",
+            "count": 486
+          },
+          {
+            "id": "minecraft:deepslate_tiles",
+            "name": "Deepslate Tiles",
+            "count": 423
+          },
+          {
+            "id": "minecraft:spruce_slab",
+            "name": "Spruce Slab",
+            "count": 365
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 291
+          },
+          {
+            "id": "minecraft:sand",
+            "name": "Sand",
+            "count": 185
+          },
+          {
+            "id": "minecraft:smooth_stone",
+            "name": "Smooth Stone",
+            "count": 123
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 1799,
+        "playerKills": 0,
+        "damageDealt": 130894,
+        "damageTaken": 57910,
+        "damageBlocked": 43404,
+        "topKills": [
+          {
+            "id": "minecraft:zombified_piglin",
+            "name": "Zombified Piglin",
+            "count": 892
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 276
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 189
+          },
+          {
+            "id": "minecraft:spider",
+            "name": "Spider",
+            "count": 91
+          },
+          {
+            "id": "minecraft:slime",
+            "name": "Slime",
+            "count": 64
+          },
+          {
+            "id": "minecraft:creeper",
+            "name": "Creeper",
+            "count": 60
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 593,
+        "favFood": {
+          "id": "minecraft:golden_carrot",
+          "name": "Golden Carrot",
+          "count": 414
+        },
+        "slept": 66,
+        "tnt": 0,
+        "waterPlaced": 1105,
+        "bred": 0,
+        "enchants": 0,
+        "traded": 2233,
+        "talked": 399,
+        "jumps": 50625,
+        "chestsOpened": 2986,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "18f7008e-0308-4d3e-b5d8-21ea8c5f47ea",
+      "name": "CreeperRW",
+      "playHours": 25.3,
+      "playDays": 1.1,
+      "playTicks": 1818503,
+      "advancements": 41,
+      "movement": {
+        "totalKm": 178.2,
+        "comparison": "1.8x a 100 km ultramarathon",
+        "dominant": {
+          "label": "Walked",
+          "icon": "boot",
+          "cm": 8575965,
+          "km": 85.76
+        },
+        "modes": [
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 8575965,
+            "km": 85.76
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 3135798,
+            "km": 31.36
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 2705343,
+            "km": 27.05
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 1901762,
+            "km": 19.02
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 709419,
+            "km": 7.09
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 630694,
+            "km": 6.31
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 286636,
+            "km": 2.87
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 186298,
+            "km": 1.86
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 144347,
+            "km": 1.44
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 125561,
+            "km": 1.26
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 108829,
+            "km": 1.09
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 17216,
+            "km": 0.17
+          }
+        ]
+      },
+      "deaths": {
+        "total": 45,
+        "causes": {
+          "Skeleton": 20,
+          "Creeper": 6,
+          "Wither Skeleton": 4,
+          "Witch": 2,
+          "Magma Cube": 2,
+          "Zombified Piglin": 2,
+          "Ghast": 2,
+          "Zombie": 2,
+          "Blaze": 1,
+          "Hoglin": 1,
+          "Spider": 1,
+          "Piglin": 1
+        },
+        "nemesis": {
+          "id": "minecraft:skeleton",
+          "name": "Skeleton",
+          "count": 20
+        },
+        "survivalStreakTicks": 4345
+      },
+      "grind": {
+        "diamonds": 42,
+        "totalMined": 9123,
+        "topMined": {
+          "id": "minecraft:grass_block",
+          "name": "Grass Block",
+          "count": 827
+        },
+        "totalPlaced": 3131,
+        "signature": {
+          "id": "minecraft:dirt",
+          "name": "Dirt",
+          "count": 485
+        },
+        "toolsBroken": 9,
+        "picksBroken": 3,
+        "deepslateMined": 1089,
+        "topMinedList": [
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 827
+          },
+          {
+            "id": "minecraft:deepslate",
+            "name": "Deepslate",
+            "count": 790
+          },
+          {
+            "id": "minecraft:short_grass",
+            "name": "Short Grass",
+            "count": 753
+          },
+          {
+            "id": "minecraft:wheat",
+            "name": "Wheat",
+            "count": 716
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 605
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 551
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 485
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 253
+          },
+          {
+            "id": "minecraft:torch",
+            "name": "Torch",
+            "count": 229
+          },
+          {
+            "id": "minecraft:polished_deepslate_slab",
+            "name": "Polished Deepslate Slab",
+            "count": 224
+          },
+          {
+            "id": "minecraft:spruce_planks",
+            "name": "Spruce Planks",
+            "count": 211
+          },
+          {
+            "id": "minecraft:rail",
+            "name": "Rail",
+            "count": 200
+          },
+          {
+            "id": "minecraft:oak_planks",
+            "name": "Oak Planks",
+            "count": 194
+          },
+          {
+            "id": "minecraft:bricks",
+            "name": "Bricks",
+            "count": 148
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 303,
+        "playerKills": 0,
+        "damageDealt": 53253,
+        "damageTaken": 22980,
+        "damageBlocked": 17944,
+        "topKills": [
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 104
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 63
+          },
+          {
+            "id": "minecraft:cow",
+            "name": "Cow",
+            "count": 29
+          },
+          {
+            "id": "minecraft:spider",
+            "name": "Spider",
+            "count": 23
+          },
+          {
+            "id": "minecraft:wither_skeleton",
+            "name": "Wither Skeleton",
+            "count": 21
+          },
+          {
+            "id": "minecraft:creeper",
+            "name": "Creeper",
+            "count": 12
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 882,
+        "favFood": {
+          "id": "minecraft:potato",
+          "name": "Potato",
+          "count": 597
+        },
+        "slept": 43,
+        "tnt": 0,
+        "waterPlaced": 25,
+        "bred": 65,
+        "enchants": 2,
+        "traded": 41,
+        "talked": 134,
+        "jumps": 24272,
+        "chestsOpened": 1655,
+        "fishCaught": 32
+      }
+    },
+    {
+      "uuid": "fc45c37e-6c25-42cb-8407-137877f0abcf",
+      "name": "chwyplates",
+      "playHours": 18.7,
+      "playDays": 0.8,
+      "playTicks": 1346450,
+      "advancements": 27,
+      "movement": {
+        "totalKm": 130.1,
+        "comparison": "1.3x a 100 km ultramarathon",
+        "dominant": {
+          "label": "Sprinted",
+          "icon": "flame",
+          "cm": 3815346,
+          "km": 38.15
+        },
+        "modes": [
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 3815346,
+            "km": 38.15
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 3715744,
+            "km": 37.16
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 2899594,
+            "km": 29.0
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 2014521,
+            "km": 20.15
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 482147,
+            "km": 4.82
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 241513,
+            "km": 2.42
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 101521,
+            "km": 1.02
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 93045,
+            "km": 0.93
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 71093,
+            "km": 0.71
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 48036,
+            "km": 0.48
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 4691,
+            "km": 0.05
+          }
+        ]
+      },
+      "deaths": {
+        "total": 12,
+        "causes": {
+          "Skeleton": 6,
+          "Player": 3,
+          "Iron Golem": 2,
+          "Zombie": 1
+        },
+        "nemesis": {
+          "id": "minecraft:skeleton",
+          "name": "Skeleton",
+          "count": 6
+        },
+        "survivalStreakTicks": 573917
+      },
+      "grind": {
+        "diamonds": 0,
+        "totalMined": 5699,
+        "topMined": {
+          "id": "minecraft:wheat",
+          "name": "Wheat",
+          "count": 1288
+        },
+        "totalPlaced": 1967,
+        "signature": {
+          "id": "minecraft:dirt",
+          "name": "Dirt",
+          "count": 1148
+        },
+        "toolsBroken": 14,
+        "picksBroken": 4,
+        "deepslateMined": 28,
+        "topMinedList": [
+          {
+            "id": "minecraft:wheat",
+            "name": "Wheat",
+            "count": 1288
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 1277
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 494
+          },
+          {
+            "id": "minecraft:beetroots",
+            "name": "Beetroots",
+            "count": 484
+          },
+          {
+            "id": "minecraft:potatoes",
+            "name": "Potatoes",
+            "count": 381
+          },
+          {
+            "id": "minecraft:carrots",
+            "name": "Carrots",
+            "count": 359
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 1148
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 286
+          },
+          {
+            "id": "minecraft:torch",
+            "name": "Torch",
+            "count": 176
+          },
+          {
+            "id": "minecraft:oak_fence",
+            "name": "Oak Fence",
+            "count": 54
+          },
+          {
+            "id": "minecraft:white_bed",
+            "name": "White Bed",
+            "count": 53
+          },
+          {
+            "id": "minecraft:lectern",
+            "name": "Lectern",
+            "count": 43
+          },
+          {
+            "id": "minecraft:sugar_cane",
+            "name": "Sugar Cane",
+            "count": 34
+          },
+          {
+            "id": "minecraft:cherry_fence",
+            "name": "Cherry Fence",
+            "count": 26
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 86,
+        "playerKills": 0,
+        "damageDealt": 25570,
+        "damageTaken": 9101,
+        "damageBlocked": 3503,
+        "topKills": [
+          {
+            "id": "minecraft:cow",
+            "name": "Cow",
+            "count": 26
+          },
+          {
+            "id": "minecraft:iron_golem",
+            "name": "Iron Golem",
+            "count": 17
+          },
+          {
+            "id": "minecraft:sheep",
+            "name": "Sheep",
+            "count": 14
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 11
+          },
+          {
+            "id": "minecraft:salmon",
+            "name": "Salmon",
+            "count": 5
+          },
+          {
+            "id": "minecraft:spider",
+            "name": "Spider",
+            "count": 4
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 1600,
+        "favFood": {
+          "id": "minecraft:carrot",
+          "name": "Carrot",
+          "count": 822
+        },
+        "slept": 67,
+        "tnt": 0,
+        "waterPlaced": 15,
+        "bred": 96,
+        "enchants": 0,
+        "traded": 147,
+        "talked": 360,
+        "jumps": 18175,
+        "chestsOpened": 350,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "68aacd16-17ed-418c-b8dd-b90f3cd98fc9",
+      "name": "PineappleGuy123",
+      "playHours": 15.0,
+      "playDays": 0.6,
+      "playTicks": 1078725,
+      "advancements": 38,
+      "movement": {
+        "totalKm": 101.9,
+        "comparison": "a 100 km ultramarathon",
+        "dominant": {
+          "label": "Walked",
+          "icon": "boot",
+          "cm": 3339727,
+          "km": 33.4
+        },
+        "modes": [
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 3339727,
+            "km": 33.4
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 2949597,
+            "km": 29.5
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 2907282,
+            "km": 29.07
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 599720,
+            "km": 6.0
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 266847,
+            "km": 2.67
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 257696,
+            "km": 2.58
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 166167,
+            "km": 1.66
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 160049,
+            "km": 1.6
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 47261,
+            "km": 0.47
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 47086,
+            "km": 0.47
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 30827,
+            "km": 0.31
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 14758,
+            "km": 0.15
+          }
+        ]
+      },
+      "deaths": {
+        "total": 19,
+        "causes": {
+          "Player": 7,
+          "Piglin": 2,
+          "Wither Skeleton": 2,
+          "Piglin Brute": 1,
+          "Creeper": 1,
+          "Zombie": 1
+        },
+        "nemesis": {
+          "id": "minecraft:player",
+          "name": "Player",
+          "count": 7
+        },
+        "survivalStreakTicks": 7244
+      },
+      "grind": {
+        "diamonds": 30,
+        "totalMined": 5649,
+        "topMined": {
+          "id": "minecraft:grass_block",
+          "name": "Grass Block",
+          "count": 576
+        },
+        "totalPlaced": 4819,
+        "signature": {
+          "id": "minecraft:spruce_slab",
+          "name": "Spruce Slab",
+          "count": 802
+        },
+        "toolsBroken": 9,
+        "picksBroken": 1,
+        "deepslateMined": 364,
+        "topMinedList": [
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 576
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 486
+          },
+          {
+            "id": "minecraft:spruce_log",
+            "name": "Spruce Log",
+            "count": 412
+          },
+          {
+            "id": "minecraft:wheat",
+            "name": "Wheat",
+            "count": 410
+          },
+          {
+            "id": "minecraft:potatoes",
+            "name": "Potatoes",
+            "count": 314
+          },
+          {
+            "id": "minecraft:short_grass",
+            "name": "Short Grass",
+            "count": 312
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:spruce_slab",
+            "name": "Spruce Slab",
+            "count": 802
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 547
+          },
+          {
+            "id": "minecraft:torch",
+            "name": "Torch",
+            "count": 452
+          },
+          {
+            "id": "minecraft:polished_blackstone_bricks",
+            "name": "Polished Blackstone Bricks",
+            "count": 407
+          },
+          {
+            "id": "minecraft:spruce_log",
+            "name": "Spruce Log",
+            "count": 402
+          },
+          {
+            "id": "minecraft:oak_planks",
+            "name": "Oak Planks",
+            "count": 370
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 284
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 276
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 239,
+        "playerKills": 7,
+        "damageDealt": 27728,
+        "damageTaken": 17067,
+        "damageBlocked": 6400,
+        "topKills": [
+          {
+            "id": "minecraft:sheep",
+            "name": "Sheep",
+            "count": 78
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 57
+          },
+          {
+            "id": "minecraft:cow",
+            "name": "Cow",
+            "count": 34
+          },
+          {
+            "id": "minecraft:salmon",
+            "name": "Salmon",
+            "count": 28
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 16
+          },
+          {
+            "id": "minecraft:piglin",
+            "name": "Piglin",
+            "count": 6
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 663,
+        "favFood": {
+          "id": "minecraft:potato",
+          "name": "Potato",
+          "count": 409
+        },
+        "slept": 11,
+        "tnt": 0,
+        "waterPlaced": 9,
+        "bred": 111,
+        "enchants": 1,
+        "traded": 0,
+        "talked": 13,
+        "jumps": 18615,
+        "chestsOpened": 1222,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "c7cb2689-e5a0-4237-a675-20b84369daaf",
+      "name": "mchunterjay",
+      "playHours": 9.6,
+      "playDays": 0.4,
+      "playTicks": 692322,
+      "advancements": 38,
+      "movement": {
+        "totalKm": 52.5,
+        "comparison": "1.2x a full marathon",
+        "dominant": {
+          "label": "Sprinted",
+          "icon": "flame",
+          "cm": 2208421,
+          "km": 22.08
+        },
+        "modes": [
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 2208421,
+            "km": 22.08
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 1657313,
+            "km": 16.57
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 726226,
+            "km": 7.26
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 369325,
+            "km": 3.69
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 301778,
+            "km": 3.02
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 125566,
+            "km": 1.26
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 57518,
+            "km": 0.58
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 42363,
+            "km": 0.42
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 35636,
+            "km": 0.36
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 12825,
+            "km": 0.13
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 12785,
+            "km": 0.13
+          }
+        ]
+      },
+      "deaths": {
+        "total": 0,
+        "causes": {},
+        "nemesis": null,
+        "survivalStreakTicks": 692322
+      },
+      "grind": {
+        "diamonds": 64,
+        "totalMined": 10528,
+        "topMined": {
+          "id": "minecraft:netherrack",
+          "name": "Netherrack",
+          "count": 5262
+        },
+        "totalPlaced": 2795,
+        "signature": {
+          "id": "minecraft:netherrack",
+          "name": "Netherrack",
+          "count": 2398
+        },
+        "toolsBroken": 8,
+        "picksBroken": 4,
+        "deepslateMined": 541,
+        "topMinedList": [
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 5262
+          },
+          {
+            "id": "minecraft:nether_quartz_ore",
+            "name": "Nether Quartz Ore",
+            "count": 2294
+          },
+          {
+            "id": "minecraft:wheat",
+            "name": "Wheat",
+            "count": 651
+          },
+          {
+            "id": "minecraft:fire",
+            "name": "Fire",
+            "count": 418
+          },
+          {
+            "id": "minecraft:deepslate",
+            "name": "Deepslate",
+            "count": 331
+          },
+          {
+            "id": "minecraft:nether_gold_ore",
+            "name": "Nether Gold Ore",
+            "count": 286
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 2398
+          },
+          {
+            "id": "minecraft:cobbled_deepslate",
+            "name": "Cobbled Deepslate",
+            "count": 165
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 95
+          },
+          {
+            "id": "minecraft:white_bed",
+            "name": "White Bed",
+            "count": 56
+          },
+          {
+            "id": "minecraft:polished_blackstone",
+            "name": "Polished Blackstone",
+            "count": 35
+          },
+          {
+            "id": "minecraft:polished_blackstone_bricks",
+            "name": "Polished Blackstone Bricks",
+            "count": 16
+          },
+          {
+            "id": "minecraft:crafting_table",
+            "name": "Crafting Table",
+            "count": 14
+          },
+          {
+            "id": "minecraft:chest",
+            "name": "Chest",
+            "count": 4
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 342,
+        "playerKills": 0,
+        "damageDealt": 23727,
+        "damageTaken": 11829,
+        "damageBlocked": 7704,
+        "topKills": [
+          {
+            "id": "minecraft:slime",
+            "name": "Slime",
+            "count": 62
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 44
+          },
+          {
+            "id": "minecraft:cow",
+            "name": "Cow",
+            "count": 31
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 23
+          },
+          {
+            "id": "minecraft:magma_cube",
+            "name": "Magma Cube",
+            "count": 15
+          },
+          {
+            "id": "minecraft:drowned",
+            "name": "Drowned",
+            "count": 6
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 196,
+        "favFood": {
+          "id": "minecraft:cooked_beef",
+          "name": "Cooked Beef",
+          "count": 160
+        },
+        "slept": 1,
+        "tnt": 0,
+        "waterPlaced": 19,
+        "bred": 653,
+        "enchants": 11,
+        "traded": 0,
+        "talked": 7,
+        "jumps": 11284,
+        "chestsOpened": 963,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "f0f1ed87-c3fa-44b1-89d9-c4a69ea1b9ac",
+      "name": "HeadHunter_2007",
+      "playHours": 6.7,
+      "playDays": 0.3,
+      "playTicks": 479058,
+      "advancements": 26,
+      "movement": {
+        "totalKm": 63.0,
+        "comparison": "1.5x a full marathon",
+        "dominant": {
+          "label": "Flew",
+          "icon": "sparkles",
+          "cm": 2190265,
+          "km": 21.9
+        },
+        "modes": [
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 2190265,
+            "km": 21.9
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 1382838,
+            "km": 13.83
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 1092580,
+            "km": 10.93
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 864553,
+            "km": 8.65
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 495974,
+            "km": 4.96
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 364865,
+            "km": 3.65
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 144726,
+            "km": 1.45
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 99396,
+            "km": 0.99
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 20747,
+            "km": 0.21
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 7567,
+            "km": 0.08
+          }
+        ]
+      },
+      "deaths": {
+        "total": 11,
+        "causes": {
+          "Player": 3,
+          "Iron Golem": 2,
+          "Enderman": 1
+        },
+        "nemesis": {
+          "id": "minecraft:player",
+          "name": "Player",
+          "count": 3
+        },
+        "survivalStreakTicks": 90017
+      },
+      "grind": {
+        "diamonds": 9,
+        "totalMined": 2228,
+        "topMined": {
+          "id": "minecraft:sand",
+          "name": "Sand",
+          "count": 426
+        },
+        "totalPlaced": 1148,
+        "signature": {
+          "id": "minecraft:cherry_planks",
+          "name": "Cherry Planks",
+          "count": 286
+        },
+        "toolsBroken": 5,
+        "picksBroken": 1,
+        "deepslateMined": 12,
+        "topMinedList": [
+          {
+            "id": "minecraft:sand",
+            "name": "Sand",
+            "count": 426
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 237
+          },
+          {
+            "id": "minecraft:wheat",
+            "name": "Wheat",
+            "count": 219
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 203
+          },
+          {
+            "id": "minecraft:cherry_log",
+            "name": "Cherry Log",
+            "count": 156
+          },
+          {
+            "id": "minecraft:sugar_cane",
+            "name": "Sugar Cane",
+            "count": 155
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:cherry_planks",
+            "name": "Cherry Planks",
+            "count": 286
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 255
+          },
+          {
+            "id": "minecraft:torch",
+            "name": "Torch",
+            "count": 137
+          },
+          {
+            "id": "minecraft:sand",
+            "name": "Sand",
+            "count": 116
+          },
+          {
+            "id": "minecraft:sugar_cane",
+            "name": "Sugar Cane",
+            "count": 100
+          },
+          {
+            "id": "minecraft:sandstone",
+            "name": "Sandstone",
+            "count": 62
+          },
+          {
+            "id": "minecraft:cherry_stairs",
+            "name": "Cherry Stairs",
+            "count": 44
+          },
+          {
+            "id": "minecraft:cherry_log",
+            "name": "Cherry Log",
+            "count": 32
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 40,
+        "playerKills": 0,
+        "damageDealt": 6023,
+        "damageTaken": 7266,
+        "damageBlocked": 0,
+        "topKills": [
+          {
+            "id": "minecraft:sheep",
+            "name": "Sheep",
+            "count": 14
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 4
+          },
+          {
+            "id": "minecraft:rabbit",
+            "name": "Rabbit",
+            "count": 4
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 3
+          },
+          {
+            "id": "minecraft:spider",
+            "name": "Spider",
+            "count": 3
+          },
+          {
+            "id": "minecraft:tropical_fish",
+            "name": "Tropical Fish",
+            "count": 2
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 157,
+        "favFood": {
+          "id": "minecraft:bread",
+          "name": "Bread",
+          "count": 133
+        },
+        "slept": 11,
+        "tnt": 0,
+        "waterPlaced": 55,
+        "bred": 0,
+        "enchants": 0,
+        "traded": 1,
+        "talked": 34,
+        "jumps": 9685,
+        "chestsOpened": 234,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "7424f9e8-ba14-48ea-a27f-aebdc237596f",
+      "name": "Bozeyy",
+      "playHours": 4.8,
+      "playDays": 0.2,
+      "playTicks": 345559,
+      "advancements": 29,
+      "movement": {
+        "totalKm": 65.4,
+        "comparison": "1.5x a full marathon",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 4135527,
+          "km": 41.36
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 4135527,
+            "km": 41.36
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 1026157,
+            "km": 10.26
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 912331,
+            "km": 9.12
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 272713,
+            "km": 2.73
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 104887,
+            "km": 1.05
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 50753,
+            "km": 0.51
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 47912,
+            "km": 0.48
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 24552,
+            "km": 0.25
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 15410,
+            "km": 0.15
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 1624,
+            "km": 0.02
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 516,
+            "km": 0.01
+          }
+        ]
+      },
+      "deaths": {
+        "total": 0,
+        "causes": {},
+        "nemesis": null,
+        "survivalStreakTicks": 345485
+      },
+      "grind": {
+        "diamonds": 19,
+        "totalMined": 5053,
+        "topMined": {
+          "id": "minecraft:stone",
+          "name": "Stone",
+          "count": 3373
+        },
+        "totalPlaced": 2072,
+        "signature": {
+          "id": "minecraft:spruce_slab",
+          "name": "Spruce Slab",
+          "count": 421
+        },
+        "toolsBroken": 0,
+        "picksBroken": 0,
+        "deepslateMined": 261,
+        "topMinedList": [
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 3373
+          },
+          {
+            "id": "minecraft:granite",
+            "name": "Granite",
+            "count": 241
+          },
+          {
+            "id": "minecraft:deepslate",
+            "name": "Deepslate",
+            "count": 208
+          },
+          {
+            "id": "minecraft:oak_log",
+            "name": "Oak Log",
+            "count": 129
+          },
+          {
+            "id": "minecraft:cherry_log",
+            "name": "Cherry Log",
+            "count": 102
+          },
+          {
+            "id": "minecraft:spruce_slab",
+            "name": "Spruce Slab",
+            "count": 78
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:spruce_slab",
+            "name": "Spruce Slab",
+            "count": 421
+          },
+          {
+            "id": "minecraft:oak_slab",
+            "name": "Oak Slab",
+            "count": 411
+          },
+          {
+            "id": "minecraft:spruce_stairs",
+            "name": "Spruce Stairs",
+            "count": 212
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 201
+          },
+          {
+            "id": "minecraft:oak_log",
+            "name": "Oak Log",
+            "count": 191
+          },
+          {
+            "id": "minecraft:oak_stairs",
+            "name": "Oak Stairs",
+            "count": 142
+          },
+          {
+            "id": "minecraft:iron_block",
+            "name": "Iron Block",
+            "count": 68
+          },
+          {
+            "id": "minecraft:spruce_log",
+            "name": "Spruce Log",
+            "count": 55
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 70,
+        "playerKills": 0,
+        "damageDealt": 13809,
+        "damageTaken": 3358,
+        "damageBlocked": 1597,
+        "topKills": [
+          {
+            "id": "minecraft:enderman",
+            "name": "Enderman",
+            "count": 44
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 20
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 5
+          },
+          {
+            "id": "minecraft:creeper",
+            "name": "Creeper",
+            "count": 1
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 52,
+        "favFood": {
+          "id": "minecraft:golden_carrot",
+          "name": "Golden Carrot",
+          "count": 42
+        },
+        "slept": 0,
+        "tnt": 0,
+        "waterPlaced": 9,
+        "bred": 0,
+        "enchants": 0,
+        "traded": 495,
+        "talked": 106,
+        "jumps": 2238,
+        "chestsOpened": 772,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "ce290815-629b-42f0-aa33-5cda55aee24e",
+      "name": "crabcatcher2",
+      "playHours": 3.3,
+      "playDays": 0.1,
+      "playTicks": 236268,
+      "advancements": 25,
+      "movement": {
+        "totalKm": 43.9,
+        "comparison": "a full marathon",
+        "dominant": {
+          "label": "Elytra-flew",
+          "icon": "wings",
+          "cm": 3050494,
+          "km": 30.5
+        },
+        "modes": [
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 3050494,
+            "km": 30.5
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 610498,
+            "km": 6.1
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 445238,
+            "km": 4.45
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 223797,
+            "km": 2.24
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 81774,
+            "km": 0.82
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 23795,
+            "km": 0.24
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 14421,
+            "km": 0.14
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 10105,
+            "km": 0.1
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 8201,
+            "km": 0.08
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 5533,
+            "km": 0.06
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 1498,
+            "km": 0.01
+          }
+        ]
+      },
+      "deaths": {
+        "total": 1,
+        "causes": {
+          "Creeper": 1
+        },
+        "nemesis": {
+          "id": "minecraft:creeper",
+          "name": "Creeper",
+          "count": 1
+        },
+        "survivalStreakTicks": 182089
+      },
+      "grind": {
+        "diamonds": 0,
+        "totalMined": 318,
+        "topMined": {
+          "id": "minecraft:bamboo",
+          "name": "Bamboo",
+          "count": 128
+        },
+        "totalPlaced": 455,
+        "signature": {
+          "id": "minecraft:bamboo",
+          "name": "Bamboo",
+          "count": 378
+        },
+        "toolsBroken": 0,
+        "picksBroken": 0,
+        "deepslateMined": 6,
+        "topMinedList": [
+          {
+            "id": "minecraft:bamboo",
+            "name": "Bamboo",
+            "count": 128
+          },
+          {
+            "id": "minecraft:coal_ore",
+            "name": "Coal Ore",
+            "count": 57
+          },
+          {
+            "id": "minecraft:bookshelf",
+            "name": "Bookshelf",
+            "count": 26
+          },
+          {
+            "id": "minecraft:cherry_log",
+            "name": "Cherry Log",
+            "count": 21
+          },
+          {
+            "id": "minecraft:shulker_box",
+            "name": "Shulker Box",
+            "count": 19
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 13
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:bamboo",
+            "name": "Bamboo",
+            "count": 378
+          },
+          {
+            "id": "minecraft:bookshelf",
+            "name": "Bookshelf",
+            "count": 26
+          },
+          {
+            "id": "minecraft:shulker_box",
+            "name": "Shulker Box",
+            "count": 19
+          },
+          {
+            "id": "minecraft:spruce_planks",
+            "name": "Spruce Planks",
+            "count": 10
+          },
+          {
+            "id": "minecraft:ender_chest",
+            "name": "Ender Chest",
+            "count": 6
+          },
+          {
+            "id": "minecraft:cobbled_deepslate",
+            "name": "Cobbled Deepslate",
+            "count": 4
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 3
+          },
+          {
+            "id": "minecraft:cherry_log",
+            "name": "Cherry Log",
+            "count": 3
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 16,
+        "playerKills": 0,
+        "damageDealt": 3377,
+        "damageTaken": 1718,
+        "damageBlocked": 795,
+        "topKills": [
+          {
+            "id": "minecraft:cow",
+            "name": "Cow",
+            "count": 5
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 4
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 3
+          },
+          {
+            "id": "minecraft:enderman",
+            "name": "Enderman",
+            "count": 3
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 29,
+        "favFood": {
+          "id": "minecraft:golden_carrot",
+          "name": "Golden Carrot",
+          "count": 29
+        },
+        "slept": 1,
+        "tnt": 0,
+        "waterPlaced": 0,
+        "bred": 0,
+        "enchants": 0,
+        "traded": 408,
+        "talked": 209,
+        "jumps": 2110,
+        "chestsOpened": 614,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "2e3b2ee2-59c5-474c-8384-d048a462ced8",
+      "name": "kng_panda",
+      "playHours": 3.1,
+      "playDays": 0.1,
+      "playTicks": 225701,
+      "advancements": 20,
+      "movement": {
+        "totalKm": 27.2,
+        "comparison": "1.3x a half marathon",
+        "dominant": {
+          "label": "Flew",
+          "icon": "sparkles",
+          "cm": 1250764,
+          "km": 12.51
+        },
+        "modes": [
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 1250764,
+            "km": 12.51
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 771527,
+            "km": 7.72
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 364848,
+            "km": 3.65
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 229035,
+            "km": 2.29
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 216934,
+            "km": 2.17
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 46334,
+            "km": 0.46
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 40573,
+            "km": 0.41
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 17189,
+            "km": 0.17
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 5960,
+            "km": 0.06
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 2561,
+            "km": 0.03
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 2187,
+            "km": 0.02
+          }
+        ]
+      },
+      "deaths": {
+        "total": 5,
+        "causes": {
+          "Zombie": 1
+        },
+        "nemesis": {
+          "id": "minecraft:zombie",
+          "name": "Zombie",
+          "count": 1
+        },
+        "survivalStreakTicks": 170102
+      },
+      "grind": {
+        "diamonds": 0,
+        "totalMined": 362,
+        "topMined": {
+          "id": "minecraft:netherrack",
+          "name": "Netherrack",
+          "count": 117
+        },
+        "totalPlaced": 130,
+        "signature": {
+          "id": "minecraft:netherrack",
+          "name": "Netherrack",
+          "count": 80
+        },
+        "toolsBroken": 0,
+        "picksBroken": 0,
+        "deepslateMined": 4,
+        "topMinedList": [
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 117
+          },
+          {
+            "id": "minecraft:sugar_cane",
+            "name": "Sugar Cane",
+            "count": 52
+          },
+          {
+            "id": "minecraft:copper_ore",
+            "name": "Copper Ore",
+            "count": 40
+          },
+          {
+            "id": "minecraft:soul_soil",
+            "name": "Soul Soil",
+            "count": 31
+          },
+          {
+            "id": "minecraft:soul_sand",
+            "name": "Soul Sand",
+            "count": 12
+          },
+          {
+            "id": "minecraft:nether_gold_ore",
+            "name": "Nether Gold Ore",
+            "count": 12
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 80
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 36
+          },
+          {
+            "id": "minecraft:cobbled_deepslate",
+            "name": "Cobbled Deepslate",
+            "count": 4
+          },
+          {
+            "id": "minecraft:oak_fence",
+            "name": "Oak Fence",
+            "count": 3
+          },
+          {
+            "id": "minecraft:shulker_box",
+            "name": "Shulker Box",
+            "count": 2
+          },
+          {
+            "id": "minecraft:crafting_table",
+            "name": "Crafting Table",
+            "count": 2
+          },
+          {
+            "id": "minecraft:bone_block",
+            "name": "Bone Block",
+            "count": 1
+          },
+          {
+            "id": "minecraft:cobblestone",
+            "name": "Cobblestone",
+            "count": 1
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 29,
+        "playerKills": 0,
+        "damageDealt": 2774,
+        "damageTaken": 2848,
+        "damageBlocked": 0,
+        "topKills": [
+          {
+            "id": "minecraft:stray",
+            "name": "Stray",
+            "count": 11
+          },
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 9
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 7
+          },
+          {
+            "id": "minecraft:piglin",
+            "name": "Piglin",
+            "count": 2
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 43,
+        "favFood": {
+          "id": "minecraft:golden_carrot",
+          "name": "Golden Carrot",
+          "count": 35
+        },
+        "slept": 8,
+        "tnt": 0,
+        "waterPlaced": 0,
+        "bred": 0,
+        "enchants": 0,
+        "traded": 0,
+        "talked": 1,
+        "jumps": 6795,
+        "chestsOpened": 80,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "7cefbf95-6c21-4cb6-8d76-8e429938fdb6",
+      "name": "monkeyman9118",
+      "playHours": 3.1,
+      "playDays": 0.1,
+      "playTicks": 223723,
+      "advancements": 24,
+      "movement": {
+        "totalKm": 24.0,
+        "comparison": "a half marathon",
+        "dominant": {
+          "label": "Walked",
+          "icon": "boot",
+          "cm": 630144,
+          "km": 6.3
+        },
+        "modes": [
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 630144,
+            "km": 6.3
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 603027,
+            "km": 6.03
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 491626,
+            "km": 4.92
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 421932,
+            "km": 4.22
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 153246,
+            "km": 1.53
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 83613,
+            "km": 0.84
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 51599,
+            "km": 0.52
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 47867,
+            "km": 0.48
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 35237,
+            "km": 0.35
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 28653,
+            "km": 0.29
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 3880,
+            "km": 0.04
+          }
+        ]
+      },
+      "deaths": {
+        "total": 3,
+        "causes": {
+          "Zombie": 2
+        },
+        "nemesis": {
+          "id": "minecraft:zombie",
+          "name": "Zombie",
+          "count": 2
+        },
+        "survivalStreakTicks": 857
+      },
+      "grind": {
+        "diamonds": 0,
+        "totalMined": 680,
+        "topMined": {
+          "id": "minecraft:stone",
+          "name": "Stone",
+          "count": 171
+        },
+        "totalPlaced": 200,
+        "signature": {
+          "id": "minecraft:dirt",
+          "name": "Dirt",
+          "count": 70
+        },
+        "toolsBroken": 3,
+        "picksBroken": 1,
+        "deepslateMined": 17,
+        "topMinedList": [
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 171
+          },
+          {
+            "id": "minecraft:wheat",
+            "name": "Wheat",
+            "count": 104
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 96
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 37
+          },
+          {
+            "id": "minecraft:iron_ore",
+            "name": "Iron Ore",
+            "count": 29
+          },
+          {
+            "id": "minecraft:diorite",
+            "name": "Diorite",
+            "count": 25
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 70
+          },
+          {
+            "id": "minecraft:netherrack",
+            "name": "Netherrack",
+            "count": 41
+          },
+          {
+            "id": "minecraft:oak_planks",
+            "name": "Oak Planks",
+            "count": 24
+          },
+          {
+            "id": "minecraft:torch",
+            "name": "Torch",
+            "count": 21
+          },
+          {
+            "id": "minecraft:crafting_table",
+            "name": "Crafting Table",
+            "count": 14
+          },
+          {
+            "id": "minecraft:cobbled_deepslate",
+            "name": "Cobbled Deepslate",
+            "count": 6
+          },
+          {
+            "id": "minecraft:oak_trapdoor",
+            "name": "Oak Trapdoor",
+            "count": 5
+          },
+          {
+            "id": "minecraft:sand",
+            "name": "Sand",
+            "count": 5
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 61,
+        "playerKills": 0,
+        "damageDealt": 8793,
+        "damageTaken": 2892,
+        "damageBlocked": 1271,
+        "topKills": [
+          {
+            "id": "minecraft:zombie",
+            "name": "Zombie",
+            "count": 19
+          },
+          {
+            "id": "minecraft:cod",
+            "name": "Cod",
+            "count": 11
+          },
+          {
+            "id": "minecraft:sheep",
+            "name": "Sheep",
+            "count": 10
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 6
+          },
+          {
+            "id": "minecraft:spider",
+            "name": "Spider",
+            "count": 4
+          },
+          {
+            "id": "minecraft:cow",
+            "name": "Cow",
+            "count": 3
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 72,
+        "favFood": {
+          "id": "minecraft:golden_carrot",
+          "name": "Golden Carrot",
+          "count": 18
+        },
+        "slept": 0,
+        "tnt": 0,
+        "waterPlaced": 0,
+        "bred": 0,
+        "enchants": 0,
+        "traded": 0,
+        "talked": 11,
+        "jumps": 4014,
+        "chestsOpened": 86,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "ba94c02d-212a-48f1-89c0-4c084226bda6",
+      "name": "AWildChris",
+      "playHours": 1.8,
+      "playDays": 0.1,
+      "playTicks": 131692,
+      "advancements": 23,
+      "movement": {
+        "totalKm": 16.0,
+        "comparison": "3.2x a morning hike",
+        "dominant": {
+          "label": "Flew",
+          "icon": "sparkles",
+          "cm": 628367,
+          "km": 6.28
+        },
+        "modes": [
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 628367,
+            "km": 6.28
+          },
+          {
+            "label": "Boated",
+            "icon": "boat",
+            "cm": 325562,
+            "km": 3.26
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 199303,
+            "km": 1.99
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 172036,
+            "km": 1.72
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 152506,
+            "km": 1.53
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 113166,
+            "km": 1.13
+          },
+          {
+            "label": "Climbed",
+            "icon": "arrow-up",
+            "cm": 49355,
+            "km": 0.49
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 35451,
+            "km": 0.35
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 33450,
+            "km": 0.33
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 5577,
+            "km": 0.06
+          },
+          {
+            "label": "Rode a ghast",
+            "icon": "cloud",
+            "cm": 1202,
+            "km": 0.01
+          }
+        ]
+      },
+      "deaths": {
+        "total": 2,
+        "causes": {
+          "Blaze": 1,
+          "Enderman": 1
+        },
+        "nemesis": {
+          "id": "minecraft:blaze",
+          "name": "Blaze",
+          "count": 1
+        },
+        "survivalStreakTicks": 3248
+      },
+      "grind": {
+        "diamonds": 0,
+        "totalMined": 860,
+        "topMined": {
+          "id": "minecraft:jungle_leaves",
+          "name": "Jungle Leaves",
+          "count": 232
+        },
+        "totalPlaced": 374,
+        "signature": {
+          "id": "minecraft:ladder",
+          "name": "Ladder",
+          "count": 94
+        },
+        "toolsBroken": 0,
+        "picksBroken": 0,
+        "deepslateMined": 0,
+        "topMinedList": [
+          {
+            "id": "minecraft:jungle_leaves",
+            "name": "Jungle Leaves",
+            "count": 232
+          },
+          {
+            "id": "minecraft:oak_leaves",
+            "name": "Oak Leaves",
+            "count": 127
+          },
+          {
+            "id": "minecraft:stone",
+            "name": "Stone",
+            "count": 107
+          },
+          {
+            "id": "minecraft:jungle_log",
+            "name": "Jungle Log",
+            "count": 73
+          },
+          {
+            "id": "minecraft:spruce_planks",
+            "name": "Spruce Planks",
+            "count": 39
+          },
+          {
+            "id": "minecraft:iron_ore",
+            "name": "Iron Ore",
+            "count": 39
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:ladder",
+            "name": "Ladder",
+            "count": 94
+          },
+          {
+            "id": "minecraft:cobblestone_slab",
+            "name": "Cobblestone Slab",
+            "count": 66
+          },
+          {
+            "id": "minecraft:spruce_planks",
+            "name": "Spruce Planks",
+            "count": 65
+          },
+          {
+            "id": "minecraft:jungle_planks",
+            "name": "Jungle Planks",
+            "count": 47
+          },
+          {
+            "id": "minecraft:torch",
+            "name": "Torch",
+            "count": 26
+          },
+          {
+            "id": "minecraft:dirt",
+            "name": "Dirt",
+            "count": 16
+          },
+          {
+            "id": "minecraft:glass",
+            "name": "Glass",
+            "count": 11
+          },
+          {
+            "id": "minecraft:jungle_sapling",
+            "name": "Jungle Sapling",
+            "count": 10
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 11,
+        "playerKills": 0,
+        "damageDealt": 1387,
+        "damageTaken": 2383,
+        "damageBlocked": 990,
+        "topKills": [
+          {
+            "id": "minecraft:salmon",
+            "name": "Salmon",
+            "count": 7
+          },
+          {
+            "id": "minecraft:skeleton",
+            "name": "Skeleton",
+            "count": 3
+          },
+          {
+            "id": "minecraft:piglin",
+            "name": "Piglin",
+            "count": 1
+          }
+        ]
+      },
+      "life": {
+        "totalFood": 27,
+        "favFood": {
+          "id": "minecraft:cooked_beef",
+          "name": "Cooked Beef",
+          "count": 27
+        },
+        "slept": 0,
+        "tnt": 0,
+        "waterPlaced": 83,
+        "bred": 1,
+        "enchants": 0,
+        "traded": 0,
+        "talked": 0,
+        "jumps": 3132,
+        "chestsOpened": 28,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "51bc215f-f0f3-4eea-ac64-225cb8a23b48",
+      "name": "_y11_",
+      "playHours": 1.5,
+      "playDays": 0.1,
+      "playTicks": 107868,
+      "advancements": 18,
+      "movement": {
+        "totalKm": 17.9,
+        "comparison": "3.6x a morning hike",
+        "dominant": {
+          "label": "Sprinted",
+          "icon": "flame",
+          "cm": 485837,
+          "km": 4.86
+        },
+        "modes": [
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 485837,
+            "km": 4.86
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 454321,
+            "km": 4.54
+          },
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 354439,
+            "km": 3.54
+          },
+          {
+            "label": "Elytra-flew",
+            "icon": "wings",
+            "cm": 290948,
+            "km": 2.91
+          },
+          {
+            "label": "Minecarted",
+            "icon": "cart",
+            "cm": 118460,
+            "km": 1.18
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 76694,
+            "km": 0.77
+          },
+          {
+            "label": "Swam",
+            "icon": "wave",
+            "cm": 39441,
+            "km": 0.39
+          },
+          {
+            "label": "Rode a horse",
+            "icon": "horse",
+            "cm": 36441,
+            "km": 0.36
+          },
+          {
+            "label": "Walked seabed",
+            "icon": "wave",
+            "cm": 4382,
+            "km": 0.04
+          },
+          {
+            "label": "Strode water",
+            "icon": "wave",
+            "cm": 4238,
+            "km": 0.04
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 1130,
+            "km": 0.01
+          }
+        ]
+      },
+      "deaths": {
+        "total": 0,
+        "causes": {},
+        "nemesis": null,
+        "survivalStreakTicks": 107868
+      },
+      "grind": {
+        "diamonds": 0,
+        "totalMined": 1527,
+        "topMined": {
+          "id": "minecraft:bamboo",
+          "name": "Bamboo",
+          "count": 1339
+        },
+        "totalPlaced": 2212,
+        "signature": {
+          "id": "minecraft:bamboo",
+          "name": "Bamboo",
+          "count": 2200
+        },
+        "toolsBroken": 0,
+        "picksBroken": 0,
+        "deepslateMined": 0,
+        "topMinedList": [
+          {
+            "id": "minecraft:bamboo",
+            "name": "Bamboo",
+            "count": 1339
+          },
+          {
+            "id": "minecraft:short_grass",
+            "name": "Short Grass",
+            "count": 70
+          },
+          {
+            "id": "minecraft:grass_block",
+            "name": "Grass Block",
+            "count": 39
+          },
+          {
+            "id": "minecraft:sugar_cane",
+            "name": "Sugar Cane",
+            "count": 18
+          },
+          {
+            "id": "minecraft:tall_grass",
+            "name": "Tall Grass",
+            "count": 13
+          },
+          {
+            "id": "minecraft:melon",
+            "name": "Melon",
+            "count": 13
+          }
+        ],
+        "topPlacedList": [
+          {
+            "id": "minecraft:bamboo",
+            "name": "Bamboo",
+            "count": 2200
+          },
+          {
+            "id": "minecraft:emerald_block",
+            "name": "Emerald Block",
+            "count": 9
+          },
+          {
+            "id": "minecraft:slime_block",
+            "name": "Slime Block",
+            "count": 2
+          },
+          {
+            "id": "minecraft:moss_block",
+            "name": "Moss Block",
+            "count": 1
+          }
+        ]
+      },
+      "combat": {
+        "mobKills": 0,
+        "playerKills": 0,
+        "damageDealt": 3,
+        "damageTaken": 1200,
+        "damageBlocked": 0,
+        "topKills": []
+      },
+      "life": {
+        "totalFood": 46,
+        "favFood": {
+          "id": "minecraft:potato",
+          "name": "Potato",
+          "count": 24
+        },
+        "slept": 0,
+        "tnt": 0,
+        "waterPlaced": 5,
+        "bred": 0,
+        "enchants": 0,
+        "traded": 47,
+        "talked": 39,
+        "jumps": 1780,
+        "chestsOpened": 142,
+        "fishCaught": 0
+      }
+    },
+    {
+      "uuid": "c2a24173-3074-4dd3-97ad-2fafed78b094",
+      "name": "Afteralo",
+      "playHours": 0.2,
+      "playDays": 0.0,
+      "playTicks": 12171,
+      "advancements": 13,
+      "movement": {
+        "totalKm": 1.2,
+        "comparison": "24% of a morning hike",
+        "dominant": {
+          "label": "Flew",
+          "icon": "sparkles",
+          "cm": 76879,
+          "km": 0.77
+        },
+        "modes": [
+          {
+            "label": "Flew",
+            "icon": "sparkles",
+            "cm": 76879,
+            "km": 0.77
+          },
+          {
+            "label": "Sprinted",
+            "icon": "flame",
+            "cm": 27330,
+            "km": 0.27
+          },
+          {
+            "label": "Fell",
+            "icon": "arrow-down",
+            "cm": 24542,
+            "km": 0.25
+          },
+          {
+            "label": "Walked",
+            "icon": "boot",
+            "cm": 8803,
+            "km": 0.09
+          },
+          {
+            "label": "Sneaked",
+            "icon": "eye",
+            "cm": 2168,
+            "km": 0.02
+          }
+        ]
+      },
+      "deaths": {
+        "total": 3,
+        "causes": {
+          "Skeleton": 1,
+          "Bee": 1
+        },
+        "nemesis": {
+          "id": "minecraft:skeleton",
+          "name": "Skeleton",
+          "count": 1
+        },
+        "survivalStreakTicks": 2469
+      },
+      "grind": {
+        "diamonds": 0,
+        "totalMined": 37,
+        "topMined": {
+          "id": "minecraft:short_grass",
+          "name": "Short Grass",
+          "count": 13
+        },
+        "totalPlaced": 0,
+        "signature": null,
+        "toolsBroken": 0,
+        "picksBroken": 0,
+        "deepslateMined": 0,
+        "topMinedList": [
+          {
+            "id": "minecraft:short_grass",
+            "name": "Short Grass",
+            "count": 13
+          },
+          {
+            "id": "minecraft:oak_log",
+            "name": "Oak Log",
+            "count": 7
+          },
+          {
+            "id": "minecraft:tall_grass",
+            "name": "Tall Grass",
+            "count": 6
+          },
+          {
+            "id": "minecraft:cherry_log",
+            "name": "Cherry Log",
+            "count": 4
+          },
+          {
+            "id": "minecraft:bee_nest",
+            "name": "Bee Nest",
+            "count": 2
+          },
+          {
+            "id": "minecraft:oak_leaves",
+            "name": "Oak Leaves",
+            "count": 2
+          }
+        ],
+        "topPlacedList": []
+      },
+      "combat": {
+        "mobKills": 1,
+        "playerKills": 0,
+        "damageDealt": 40,
+        "damageTaken": 960,
+        "damageBlocked": 0,
+        "topKills": []
+      },
+      "life": {
+        "totalFood": 0,
+        "favFood": null,
+        "slept": 0,
+        "tnt": 0,
+        "waterPlaced": 0,
+        "bred": 0,
+        "enchants": 0,
+        "traded": 0,
+        "talked": 0,
+        "jumps": 385,
+        "chestsOpened": 6,
+        "fishCaught": 0
+      }
+    }
+  ],
+  "superlatives": [
+    {
+      "title": "The Architect",
+      "desc": "Most blocks placed",
+      "icon": "hammer",
+      "winner": "hamesYT",
+      "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+      "value": 132431,
+      "unit": "blocks placed",
+      "stat": "132,431"
+    },
+    {
+      "title": "The Nomad",
+      "desc": "Most distance travelled",
+      "icon": "compass",
+      "winner": "jiaozi_tou",
+      "uuid": "f82f614c-5666-402b-aa84-9f8e240c527a",
+      "value": 2904.6,
+      "unit": "km",
+      "stat": "2,904.6"
+    },
+    {
+      "title": "The Spelunker",
+      "desc": "Most blocks mined",
+      "icon": "pickaxe",
+      "winner": "PicklRickl",
+      "uuid": "6b58c34b-a634-4964-9a44-f9d99676ae06",
+      "value": 204695,
+      "unit": "blocks mined",
+      "stat": "204,695"
+    },
+    {
+      "title": "The Menace",
+      "desc": "Most TNT detonated",
+      "icon": "bomb",
+      "winner": "_mungy",
+      "uuid": "6717ab31-bd71-43d7-9879-3131abcfda73",
+      "value": 1557,
+      "unit": "TNT",
+      "stat": "1,557"
+    },
+    {
+      "title": "The Reaper",
+      "desc": "Most mob kills",
+      "icon": "skull",
+      "winner": "hamesYT",
+      "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+      "value": 309311,
+      "unit": "kills",
+      "stat": "309,311"
+    },
+    {
+      "title": "The Glutton",
+      "desc": "Most food eaten",
+      "icon": "drumstick",
+      "winner": "hamesYT",
+      "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+      "value": 10020,
+      "unit": "eaten",
+      "stat": "10,020"
+    },
+    {
+      "title": "The Merchant",
+      "desc": "Most villager trades",
+      "icon": "coins",
+      "winner": "hamesYT",
+      "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+      "value": 114180,
+      "unit": "trades",
+      "stat": "114,180"
+    },
+    {
+      "title": "The Cat-with-9-Lives",
+      "desc": "Most deaths",
+      "icon": "ghost",
+      "winner": "Wyvr_",
+      "uuid": "e953e9e0-cb87-4a15-9287-1fdca12ced93",
+      "value": 314,
+      "unit": "deaths",
+      "stat": "314"
+    },
+    {
+      "title": "The Enchanter",
+      "desc": "Most items enchanted",
+      "icon": "wand",
+      "winner": "Fearless5959",
+      "uuid": "da0b4f1b-53b5-447c-95e7-7c8d4d0c39b1",
+      "value": 268,
+      "unit": "enchants",
+      "stat": "268"
+    },
+    {
+      "title": "The Grave Robber",
+      "desc": "Most chests opened",
+      "icon": "chest",
+      "winner": "hamesYT",
+      "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+      "value": 35280,
+      "unit": "chests",
+      "stat": "35,280"
+    },
+    {
+      "title": "The Shepherd",
+      "desc": "Most animals bred",
+      "icon": "sheep",
+      "winner": "hamesYT",
+      "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+      "value": 658,
+      "unit": "bred",
+      "stat": "658"
+    },
+    {
+      "title": "The Marathoner",
+      "desc": "Most hours played",
+      "icon": "clock",
+      "winner": "jiaozi_tou",
+      "uuid": "f82f614c-5666-402b-aa84-9f8e240c527a",
+      "value": 367.3,
+      "unit": "hours",
+      "stat": "367.3"
+    },
+    {
+      "title": "The Warlord",
+      "desc": "Most player kills",
+      "icon": "swords",
+      "winner": "_mungy",
+      "uuid": "6717ab31-bd71-43d7-9879-3131abcfda73",
+      "value": 133,
+      "unit": "PvP kills",
+      "stat": "133"
+    },
+    {
+      "title": "The Jumping Bean",
+      "desc": "Most jumps",
+      "icon": "spring",
+      "winner": "jiaozi_tou",
+      "uuid": "f82f614c-5666-402b-aa84-9f8e240c527a",
+      "value": 253436,
+      "unit": "jumps",
+      "stat": "253,436"
+    },
+    {
+      "title": "The Completionist",
+      "desc": "Most advancements",
+      "icon": "trophy",
+      "winner": "PicklRickl",
+      "uuid": "6b58c34b-a634-4964-9a44-f9d99676ae06",
+      "value": 93,
+      "unit": "advancements",
+      "stat": "93"
+    },
+    {
+      "title": "The Fisherman",
+      "desc": "Most fish caught",
+      "icon": "wave",
+      "winner": "CreeperRW",
+      "uuid": "18f7008e-0308-4d3e-b5d8-21ea8c5f47ea",
+      "value": 32,
+      "unit": "fish caught",
+      "stat": "32"
+    },
+    {
+      "title": "The Mole",
+      "desc": "Most deepslate mined",
+      "icon": "pickaxe",
+      "winner": "Wyvr_",
+      "uuid": "e953e9e0-cb87-4a15-9287-1fdca12ced93",
+      "value": 9016,
+      "unit": "deepslate mined",
+      "stat": "9,016"
+    }
+  ],
+  "leaderboards": [
+    {
+      "key": "Hours Played",
+      "unit": "h",
+      "rows": [
+        {
+          "name": "jiaozi_tou",
+          "uuid": "f82f614c-5666-402b-aa84-9f8e240c527a",
+          "value": 367.3
+        },
+        {
+          "name": "hamesYT",
+          "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+          "value": 301.8
+        },
+        {
+          "name": "_mungy",
+          "uuid": "6717ab31-bd71-43d7-9879-3131abcfda73",
+          "value": 261.1
+        },
+        {
+          "name": "Fearless5959",
+          "uuid": "da0b4f1b-53b5-447c-95e7-7c8d4d0c39b1",
+          "value": 207.4
+        },
+        {
+          "name": "arco23",
+          "uuid": "828c8f27-cce7-4cf9-a4ae-90b6186af030",
+          "value": 199.8
+        },
+        {
+          "name": "PicklRickl",
+          "uuid": "6b58c34b-a634-4964-9a44-f9d99676ae06",
+          "value": 177.9
+        },
+        {
+          "name": "pob41",
+          "uuid": "785cd493-19c0-4624-bb91-bd6885f2b729",
+          "value": 138.5
+        },
+        {
+          "name": "MachSpeed_08",
+          "uuid": "95302b7f-49a1-4682-b567-a3d7ef436203",
+          "value": 121.2
+        },
+        {
+          "name": "Wyvr_",
+          "uuid": "e953e9e0-cb87-4a15-9287-1fdca12ced93",
+          "value": 106.3
+        },
+        {
+          "name": "mxs_eagle",
+          "uuid": "cb7b9204-34c8-48a3-bb00-0302be6b81ab",
+          "value": 64.0
+        }
+      ]
+    },
+    {
+      "key": "Distance (km)",
+      "unit": "km",
+      "rows": [
+        {
+          "name": "jiaozi_tou",
+          "uuid": "f82f614c-5666-402b-aa84-9f8e240c527a",
+          "value": 2904.6
+        },
+        {
+          "name": "_mungy",
+          "uuid": "6717ab31-bd71-43d7-9879-3131abcfda73",
+          "value": 2293.6
+        },
+        {
+          "name": "pob41",
+          "uuid": "785cd493-19c0-4624-bb91-bd6885f2b729",
+          "value": 2021.3
+        },
+        {
+          "name": "PicklRickl",
+          "uuid": "6b58c34b-a634-4964-9a44-f9d99676ae06",
+          "value": 1908.5
+        },
+        {
+          "name": "arco23",
+          "uuid": "828c8f27-cce7-4cf9-a4ae-90b6186af030",
+          "value": 1866.1
+        },
+        {
+          "name": "Fearless5959",
+          "uuid": "da0b4f1b-53b5-447c-95e7-7c8d4d0c39b1",
+          "value": 1640.3
+        },
+        {
+          "name": "hamesYT",
+          "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+          "value": 1559.4
+        },
+        {
+          "name": "MachSpeed_08",
+          "uuid": "95302b7f-49a1-4682-b567-a3d7ef436203",
+          "value": 1443.9
+        },
+        {
+          "name": "Wyvr_",
+          "uuid": "e953e9e0-cb87-4a15-9287-1fdca12ced93",
+          "value": 1388.1
+        },
+        {
+          "name": "RedRaven767",
+          "uuid": "aaad10d5-537d-481b-a902-e0ff4be8f45c",
+          "value": 491.5
+        }
+      ]
+    },
+    {
+      "key": "Mob Kills",
+      "unit": "",
+      "rows": [
+        {
+          "name": "hamesYT",
+          "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+          "value": 309311
+        },
+        {
+          "name": "jiaozi_tou",
+          "uuid": "f82f614c-5666-402b-aa84-9f8e240c527a",
+          "value": 94288
+        },
+        {
+          "name": "PicklRickl",
+          "uuid": "6b58c34b-a634-4964-9a44-f9d99676ae06",
+          "value": 88254
+        },
+        {
+          "name": "arco23",
+          "uuid": "828c8f27-cce7-4cf9-a4ae-90b6186af030",
+          "value": 87029
+        },
+        {
+          "name": "_mungy",
+          "uuid": "6717ab31-bd71-43d7-9879-3131abcfda73",
+          "value": 22550
+        },
+        {
+          "name": "Fearless5959",
+          "uuid": "da0b4f1b-53b5-447c-95e7-7c8d4d0c39b1",
+          "value": 15950
+        },
+        {
+          "name": "MachSpeed_08",
+          "uuid": "95302b7f-49a1-4682-b567-a3d7ef436203",
+          "value": 9824
+        },
+        {
+          "name": "Wyvr_",
+          "uuid": "e953e9e0-cb87-4a15-9287-1fdca12ced93",
+          "value": 7250
+        },
+        {
+          "name": "pob41",
+          "uuid": "785cd493-19c0-4624-bb91-bd6885f2b729",
+          "value": 7063
+        },
+        {
+          "name": "RedRaven767",
+          "uuid": "aaad10d5-537d-481b-a902-e0ff4be8f45c",
+          "value": 6023
+        }
+      ]
+    },
+    {
+      "key": "Blocks Mined",
+      "unit": "",
+      "rows": [
+        {
+          "name": "PicklRickl",
+          "uuid": "6b58c34b-a634-4964-9a44-f9d99676ae06",
+          "value": 204695
+        },
+        {
+          "name": "jiaozi_tou",
+          "uuid": "f82f614c-5666-402b-aa84-9f8e240c527a",
+          "value": 177140
+        },
+        {
+          "name": "_mungy",
+          "uuid": "6717ab31-bd71-43d7-9879-3131abcfda73",
+          "value": 172596
+        },
+        {
+          "name": "hamesYT",
+          "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+          "value": 169247
+        },
+        {
+          "name": "arco23",
+          "uuid": "828c8f27-cce7-4cf9-a4ae-90b6186af030",
+          "value": 145106
+        },
+        {
+          "name": "Fearless5959",
+          "uuid": "da0b4f1b-53b5-447c-95e7-7c8d4d0c39b1",
+          "value": 113844
+        },
+        {
+          "name": "Wyvr_",
+          "uuid": "e953e9e0-cb87-4a15-9287-1fdca12ced93",
+          "value": 111259
+        },
+        {
+          "name": "pob41",
+          "uuid": "785cd493-19c0-4624-bb91-bd6885f2b729",
+          "value": 94737
+        },
+        {
+          "name": "MachSpeed_08",
+          "uuid": "95302b7f-49a1-4682-b567-a3d7ef436203",
+          "value": 71395
+        },
+        {
+          "name": "steve69god",
+          "uuid": "9f061a43-c0b5-4b31-857d-5ef936efeb89",
+          "value": 57099
+        }
+      ]
+    },
+    {
+      "key": "Blocks Placed",
+      "unit": "",
+      "rows": [
+        {
+          "name": "hamesYT",
+          "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+          "value": 132431
+        },
+        {
+          "name": "PicklRickl",
+          "uuid": "6b58c34b-a634-4964-9a44-f9d99676ae06",
+          "value": 130981
+        },
+        {
+          "name": "arco23",
+          "uuid": "828c8f27-cce7-4cf9-a4ae-90b6186af030",
+          "value": 119853
+        },
+        {
+          "name": "jiaozi_tou",
+          "uuid": "f82f614c-5666-402b-aa84-9f8e240c527a",
+          "value": 108464
+        },
+        {
+          "name": "_mungy",
+          "uuid": "6717ab31-bd71-43d7-9879-3131abcfda73",
+          "value": 80446
+        },
+        {
+          "name": "pob41",
+          "uuid": "785cd493-19c0-4624-bb91-bd6885f2b729",
+          "value": 75874
+        },
+        {
+          "name": "Fearless5959",
+          "uuid": "da0b4f1b-53b5-447c-95e7-7c8d4d0c39b1",
+          "value": 60706
+        },
+        {
+          "name": "Wyvr_",
+          "uuid": "e953e9e0-cb87-4a15-9287-1fdca12ced93",
+          "value": 39861
+        },
+        {
+          "name": "MachSpeed_08",
+          "uuid": "95302b7f-49a1-4682-b567-a3d7ef436203",
+          "value": 25706
+        },
+        {
+          "name": "mxs_eagle",
+          "uuid": "cb7b9204-34c8-48a3-bb00-0302be6b81ab",
+          "value": 21617
+        }
+      ]
+    },
+    {
+      "key": "Deaths",
+      "unit": "",
+      "rows": [
+        {
+          "name": "Wyvr_",
+          "uuid": "e953e9e0-cb87-4a15-9287-1fdca12ced93",
+          "value": 314
+        },
+        {
+          "name": "MachSpeed_08",
+          "uuid": "95302b7f-49a1-4682-b567-a3d7ef436203",
+          "value": 302
+        },
+        {
+          "name": "jiaozi_tou",
+          "uuid": "f82f614c-5666-402b-aa84-9f8e240c527a",
+          "value": 155
+        },
+        {
+          "name": "Fearless5959",
+          "uuid": "da0b4f1b-53b5-447c-95e7-7c8d4d0c39b1",
+          "value": 127
+        },
+        {
+          "name": "PicklRickl",
+          "uuid": "6b58c34b-a634-4964-9a44-f9d99676ae06",
+          "value": 83
+        },
+        {
+          "name": "Floating_Pikachu",
+          "uuid": "4b899170-34b8-4c6c-a353-f675abb4e8f1",
+          "value": 64
+        },
+        {
+          "name": "mxs_eagle",
+          "uuid": "cb7b9204-34c8-48a3-bb00-0302be6b81ab",
+          "value": 62
+        },
+        {
+          "name": "arco23",
+          "uuid": "828c8f27-cce7-4cf9-a4ae-90b6186af030",
+          "value": 53
+        },
+        {
+          "name": "CreeperRW",
+          "uuid": "18f7008e-0308-4d3e-b5d8-21ea8c5f47ea",
+          "value": 45
+        },
+        {
+          "name": "_mungy",
+          "uuid": "6717ab31-bd71-43d7-9879-3131abcfda73",
+          "value": 43
+        }
+      ]
+    },
+    {
+      "key": "Diamonds",
+      "unit": "",
+      "rows": [
+        {
+          "name": "pob41",
+          "uuid": "785cd493-19c0-4624-bb91-bd6885f2b729",
+          "value": 1480
+        },
+        {
+          "name": "_mungy",
+          "uuid": "6717ab31-bd71-43d7-9879-3131abcfda73",
+          "value": 1460
+        },
+        {
+          "name": "Wyvr_",
+          "uuid": "e953e9e0-cb87-4a15-9287-1fdca12ced93",
+          "value": 1302
+        },
+        {
+          "name": "PicklRickl",
+          "uuid": "6b58c34b-a634-4964-9a44-f9d99676ae06",
+          "value": 685
+        },
+        {
+          "name": "Floating_Pikachu",
+          "uuid": "4b899170-34b8-4c6c-a353-f675abb4e8f1",
+          "value": 656
+        },
+        {
+          "name": "arco23",
+          "uuid": "828c8f27-cce7-4cf9-a4ae-90b6186af030",
+          "value": 654
+        },
+        {
+          "name": "MachSpeed_08",
+          "uuid": "95302b7f-49a1-4682-b567-a3d7ef436203",
+          "value": 531
+        },
+        {
+          "name": "hamesYT",
+          "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+          "value": 415
+        },
+        {
+          "name": "jiaozi_tou",
+          "uuid": "f82f614c-5666-402b-aa84-9f8e240c527a",
+          "value": 371
+        },
+        {
+          "name": "Fearless5959",
+          "uuid": "da0b4f1b-53b5-447c-95e7-7c8d4d0c39b1",
+          "value": 355
+        }
+      ]
+    },
+    {
+      "key": "Villager Trades",
+      "unit": "",
+      "rows": [
+        {
+          "name": "hamesYT",
+          "uuid": "9db9e44c-11c5-4dc7-be37-f58ce3a9b288",
+          "value": 114180
+        },
+        {
+          "name": "_mungy",
+          "uuid": "6717ab31-bd71-43d7-9879-3131abcfda73",
+          "value": 28392
+        },
+        {
+          "name": "jiaozi_tou",
+          "uuid": "f82f614c-5666-402b-aa84-9f8e240c527a",
+          "value": 26501
+        },
+        {
+          "name": "arco23",
+          "uuid": "828c8f27-cce7-4cf9-a4ae-90b6186af030",
+          "value": 5062
+        },
+        {
+          "name": "Wyvr_",
+          "uuid": "e953e9e0-cb87-4a15-9287-1fdca12ced93",
+          "value": 2812
+        },
+        {
+          "name": "Floating_Pikachu",
+          "uuid": "4b899170-34b8-4c6c-a353-f675abb4e8f1",
+          "value": 2233
+        },
+        {
+          "name": "steve69god",
+          "uuid": "9f061a43-c0b5-4b31-857d-5ef936efeb89",
+          "value": 1688
+        },
+        {
+          "name": "MachSpeed_08",
+          "uuid": "95302b7f-49a1-4682-b567-a3d7ef436203",
+          "value": 653
+        },
+        {
+          "name": "Bozeyy",
+          "uuid": "7424f9e8-ba14-48ea-a27f-aebdc237596f",
+          "value": 495
+        },
+        {
+          "name": "Fearless5959",
+          "uuid": "da0b4f1b-53b5-447c-95e7-7c8d4d0c39b1",
+          "value": 487
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "players": 26,
+    "hours": 2190,
+    "deaths": 1411,
+    "mobKills": 655523,
+    "blocksMined": 1457508,
+    "blocksPlaced": 863515,
+    "distanceKm": 19683,
+    "diamonds": 8407,
+    "tnt": 2488,
+    "trades": 184177
+  }
+}

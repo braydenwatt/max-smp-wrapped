@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #0a0503;
+  color: #fbeee6;
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Ambient ember background — dark red/orange/black */
+.ember-bg {
+  background:
+    radial-gradient(1200px 700px at 82% -8%, rgba(255, 106, 31, 0.22), transparent 60%),
+    radial-gradient(1000px 640px at 6% 4%, rgba(225, 29, 15, 0.20), transparent 58%),
+    radial-gradient(900px 900px at 50% 118%, rgba(197, 53, 10, 0.16), transparent 60%),
+    linear-gradient(180deg, #140705 0%, #0b0402 55%, #070302 100%);
+}
+
+/* subtle static texture — cheap radial dots instead of expensive SVG turbulence */
+.grain::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.35;
+  z-index: 1;
+  background-image: radial-gradient(rgba(255, 138, 61, 0.05) 1px, transparent 1px);
+  background-size: 4px 4px;
+}
+
+.card {
+  background: linear-gradient(180deg, rgba(43, 20, 11, 0.9), rgba(22, 10, 6, 0.86));
+  border: 1px solid rgba(255, 138, 61, 0.14);
+  border-radius: 20px;
+}
+
+.card-hover {
+  transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+}
+.card-hover:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255, 138, 61, 0.45);
+  box-shadow: 0 18px 48px -18px rgba(255, 106, 31, 0.55);
+}
+
+.pixelated {
+  image-rendering: pixelated;
+}
+
+.stat-num {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+}
+
+.text-glow {
+  text-shadow: 0 0 34px rgba(255, 106, 31, 0.45);
+}
+
+.gradient-heat {
+  background: linear-gradient(92deg, #ffd08a 0%, #ff8a3d 40%, #ff5a1f 66%, #e11d0f 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* full-screen scroll-snap story */
+.snap-y-story {
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  overflow-y: auto;
+  height: 100dvh;
+}
+.snap-section {
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  min-height: 100dvh;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 106, 31, 0.35);
+  border-radius: 8px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
